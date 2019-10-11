@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: d1af9214e06e7a7418a93d101aa670f0
+timeCreated: 1462049167
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: BodyGot
+    100002: Goat
+    100004: Goat.001
+    100006: //RootNode
+    100008: HeadGot
+    100010: Left_ear
+    100012: Left_ear_end
+    100014: Left_ear_end_end
+    100016: Left_legGot1
+    100018: Left_legGot2
+    100020: Left_legGot3
+    100022: Left_legGot3_end
+    100024: Left_legGot3_end_end
+    100026: LODGoat1
+    100028: LODGoat2
+    100030: mouth1
+    100032: mouth1_end
+    100034: mouth1_end_end
+    100036: mouth2
+    100038: mouth2_end
+    100040: mouth2_end_end
+    100042: NeckGot
+    100044: PosteriorLeftlegGot1
+    100046: PosteriorLeftlegGot2
+    100048: PosteriorLeftlegGot3
+    100050: PosteriorLeftlegGot3_end
+    100052: PosteriorLeftlegGot3_end_end
+    100054: PosteriorRighr_legGot1
+    100056: PosteriorRighr_legGot2
+    100058: PosteriorRighr_legGot3
+    100060: PosteriorRighr_legGot3_end
+    100062: PosteriorRighr_legGot3_end_end
+    100064: Righr_legGot1
+    100066: Righr_legGot2
+    100068: Righr_legGot3
+    100070: Righr_legGot3_end
+    100072: Righr_legGot3_end_end
+    100074: Right_ear
+    100076: Right_ear_end
+    100078: Right_ear_end_end
+    100080: RightGot
+    100082: TailGot1
+    100084: TailGot2
+    100086: TailGot2_end
+    100088: TailGot2_end_end
+    400000: BodyGot
+    400002: Goat
+    400004: Goat.001
+    400006: //RootNode
+    400008: HeadGot
+    400010: Left_ear
+    400012: Left_ear_end
+    400014: Left_ear_end_end
+    400016: Left_legGot1
+    400018: Left_legGot2
+    400020: Left_legGot3
+    400022: Left_legGot3_end
+    400024: Left_legGot3_end_end
+    400026: LODGoat1
+    400028: LODGoat2
+    400030: mouth1
+    400032: mouth1_end
+    400034: mouth1_end_end
+    400036: mouth2
+    400038: mouth2_end
+    400040: mouth2_end_end
+    400042: NeckGot
+    400044: PosteriorLeftlegGot1
+    400046: PosteriorLeftlegGot2
+    400048: PosteriorLeftlegGot3
+    400050: PosteriorLeftlegGot3_end
+    400052: PosteriorLeftlegGot3_end_end
+    400054: PosteriorRighr_legGot1
+    400056: PosteriorRighr_legGot2
+    400058: PosteriorRighr_legGot3
+    400060: PosteriorRighr_legGot3_end
+    400062: PosteriorRighr_legGot3_end_end
+    400064: Righr_legGot1
+    400066: Righr_legGot2
+    400068: Righr_legGot3
+    400070: Righr_legGot3_end
+    400072: Righr_legGot3_end_end
+    400074: Right_ear
+    400076: Right_ear_end
+    400078: Right_ear_end_end
+    400080: RightGot
+    400082: TailGot1
+    400084: TailGot2
+    400086: TailGot2_end
+    400088: TailGot2_end_end
+    4300000: Goat.001
+    4300002: LODGoat1
+    4300004: LODGoat2
+    7400000: deathGot
+    7400002: idleGot
+    7400004: walkGot
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Goat.001
+    13700002: LODGoat1
+    13700004: LODGoat2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: deathGot
+      takeName: Goat|Goat|Goat|deathGot|Goat|deathGot
+      firstFrame: 0
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Goat
+        weight: 1
+      - path: Goat/RightGot
+        weight: 1
+      - path: Goat/RightGot/BodyGot
+        weight: 1
+      - path: Goat/RightGot/BodyGot/Left_legGot1
+        weight: 1
+      - path: Goat/RightGot/BodyGot/Left_legGot1/Left_legGot2
+        weight: 1
+      - path: Goat/RightGot/BodyGot/Left_legGot1/Left_legGot2/Left_legGot3
+        weight: 1
+      - path: Goat/RightGot/BodyGot/Left_legGot1/Left_legGot2/Left_legGot3/Left_legGot3_end
+        weight: 1
+      - path: Goat/RightGot/BodyGot/Left_legGot1/Left_legGot2/Left_legGot3/Left_legGot3_end/Left_legGot3_end_end
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/Left_ear
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/Left_ear/Left_ear_end
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/Left_ear/Left_ear_end/Left_ear_end_end
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/mouth1
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/mouth1/mouth1_end
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/mouth1/mouth1_end/mouth1_end_end
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/mouth2
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/mouth2/mouth2_end
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/mouth2/mouth2_end/mouth2_end_end
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/Right_ear
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/Right_ear/Right_ear_end
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/Right_ear/Right_ear_end/Right_ear_end_end
+        weight: 1
+      - path: Goat/RightGot/BodyGot/Righr_legGot1
+        weight: 1
+      - path: Goat/RightGot/BodyGot/Righr_legGot1/Righr_legGot2
+        weight: 1
+      - path: Goat/RightGot/BodyGot/Righr_legGot1/Righr_legGot2/Righr_legGot3
+        weight: 1
+      - path: Goat/RightGot/BodyGot/Righr_legGot1/Righr_legGot2/Righr_legGot3/Righr_legGot3_end
+        weight: 1
+      - path: Goat/RightGot/BodyGot/Righr_legGot1/Righr_legGot2/Righr_legGot3/Righr_legGot3_end/Righr_legGot3_end_end
+        weight: 1
+      - path: Goat/RightGot/PosteriorLeftlegGot1
+        weight: 1
+      - path: Goat/RightGot/PosteriorLeftlegGot1/PosteriorLeftlegGot2
+        weight: 1
+      - path: Goat/RightGot/PosteriorLeftlegGot1/PosteriorLeftlegGot2/PosteriorLeftlegGot3
+        weight: 1
+      - path: Goat/RightGot/PosteriorLeftlegGot1/PosteriorLeftlegGot2/PosteriorLeftlegGot3/PosteriorLeftlegGot3_end
+        weight: 1
+      - path: Goat/RightGot/PosteriorLeftlegGot1/PosteriorLeftlegGot2/PosteriorLeftlegGot3/PosteriorLeftlegGot3_end/PosteriorLeftlegGot3_end_end
+        weight: 1
+      - path: Goat/RightGot/PosteriorRighr_legGot1
+        weight: 1
+      - path: Goat/RightGot/PosteriorRighr_legGot1/PosteriorRighr_legGot2
+        weight: 1
+      - path: Goat/RightGot/PosteriorRighr_legGot1/PosteriorRighr_legGot2/PosteriorRighr_legGot3
+        weight: 1
+      - path: Goat/RightGot/PosteriorRighr_legGot1/PosteriorRighr_legGot2/PosteriorRighr_legGot3/PosteriorRighr_legGot3_end
+        weight: 1
+      - path: Goat/RightGot/PosteriorRighr_legGot1/PosteriorRighr_legGot2/PosteriorRighr_legGot3/PosteriorRighr_legGot3_end/PosteriorRighr_legGot3_end_end
+        weight: 1
+      - path: Goat/RightGot/TailGot1
+        weight: 1
+      - path: Goat/RightGot/TailGot1/TailGot2
+        weight: 1
+      - path: Goat/RightGot/TailGot1/TailGot2/TailGot2_end
+        weight: 1
+      - path: Goat/RightGot/TailGot1/TailGot2/TailGot2_end/TailGot2_end_end
+        weight: 1
+      - path: Goat.001
+        weight: 1
+      - path: LODGoat1
+        weight: 1
+      - path: LODGoat2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idleGot
+      takeName: Goat|Goat|Goat|idleGot|Goat|idleGot
+      firstFrame: 0
+      lastFrame: 249
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Goat
+        weight: 1
+      - path: Goat/RightGot
+        weight: 1
+      - path: Goat/RightGot/BodyGot
+        weight: 1
+      - path: Goat/RightGot/BodyGot/Left_legGot1
+        weight: 1
+      - path: Goat/RightGot/BodyGot/Left_legGot1/Left_legGot2
+        weight: 1
+      - path: Goat/RightGot/BodyGot/Left_legGot1/Left_legGot2/Left_legGot3
+        weight: 1
+      - path: Goat/RightGot/BodyGot/Left_legGot1/Left_legGot2/Left_legGot3/Left_legGot3_end
+        weight: 1
+      - path: Goat/RightGot/BodyGot/Left_legGot1/Left_legGot2/Left_legGot3/Left_legGot3_end/Left_legGot3_end_end
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/Left_ear
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/Left_ear/Left_ear_end
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/Left_ear/Left_ear_end/Left_ear_end_end
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/mouth1
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/mouth1/mouth1_end
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/mouth1/mouth1_end/mouth1_end_end
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/mouth2
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/mouth2/mouth2_end
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/mouth2/mouth2_end/mouth2_end_end
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/Right_ear
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/Right_ear/Right_ear_end
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/Right_ear/Right_ear_end/Right_ear_end_end
+        weight: 1
+      - path: Goat/RightGot/BodyGot/Righr_legGot1
+        weight: 1
+      - path: Goat/RightGot/BodyGot/Righr_legGot1/Righr_legGot2
+        weight: 1
+      - path: Goat/RightGot/BodyGot/Righr_legGot1/Righr_legGot2/Righr_legGot3
+        weight: 1
+      - path: Goat/RightGot/BodyGot/Righr_legGot1/Righr_legGot2/Righr_legGot3/Righr_legGot3_end
+        weight: 1
+      - path: Goat/RightGot/BodyGot/Righr_legGot1/Righr_legGot2/Righr_legGot3/Righr_legGot3_end/Righr_legGot3_end_end
+        weight: 1
+      - path: Goat/RightGot/PosteriorLeftlegGot1
+        weight: 1
+      - path: Goat/RightGot/PosteriorLeftlegGot1/PosteriorLeftlegGot2
+        weight: 1
+      - path: Goat/RightGot/PosteriorLeftlegGot1/PosteriorLeftlegGot2/PosteriorLeftlegGot3
+        weight: 1
+      - path: Goat/RightGot/PosteriorLeftlegGot1/PosteriorLeftlegGot2/PosteriorLeftlegGot3/PosteriorLeftlegGot3_end
+        weight: 1
+      - path: Goat/RightGot/PosteriorLeftlegGot1/PosteriorLeftlegGot2/PosteriorLeftlegGot3/PosteriorLeftlegGot3_end/PosteriorLeftlegGot3_end_end
+        weight: 1
+      - path: Goat/RightGot/PosteriorRighr_legGot1
+        weight: 1
+      - path: Goat/RightGot/PosteriorRighr_legGot1/PosteriorRighr_legGot2
+        weight: 1
+      - path: Goat/RightGot/PosteriorRighr_legGot1/PosteriorRighr_legGot2/PosteriorRighr_legGot3
+        weight: 1
+      - path: Goat/RightGot/PosteriorRighr_legGot1/PosteriorRighr_legGot2/PosteriorRighr_legGot3/PosteriorRighr_legGot3_end
+        weight: 1
+      - path: Goat/RightGot/PosteriorRighr_legGot1/PosteriorRighr_legGot2/PosteriorRighr_legGot3/PosteriorRighr_legGot3_end/PosteriorRighr_legGot3_end_end
+        weight: 1
+      - path: Goat/RightGot/TailGot1
+        weight: 1
+      - path: Goat/RightGot/TailGot1/TailGot2
+        weight: 1
+      - path: Goat/RightGot/TailGot1/TailGot2/TailGot2_end
+        weight: 1
+      - path: Goat/RightGot/TailGot1/TailGot2/TailGot2_end/TailGot2_end_end
+        weight: 1
+      - path: Goat.001
+        weight: 1
+      - path: LODGoat1
+        weight: 1
+      - path: LODGoat2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: walkGot
+      takeName: Goat|Goat|Goat|walkGot|Goat|walkGot
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Goat
+        weight: 1
+      - path: Goat/RightGot
+        weight: 1
+      - path: Goat/RightGot/BodyGot
+        weight: 1
+      - path: Goat/RightGot/BodyGot/Left_legGot1
+        weight: 1
+      - path: Goat/RightGot/BodyGot/Left_legGot1/Left_legGot2
+        weight: 1
+      - path: Goat/RightGot/BodyGot/Left_legGot1/Left_legGot2/Left_legGot3
+        weight: 1
+      - path: Goat/RightGot/BodyGot/Left_legGot1/Left_legGot2/Left_legGot3/Left_legGot3_end
+        weight: 1
+      - path: Goat/RightGot/BodyGot/Left_legGot1/Left_legGot2/Left_legGot3/Left_legGot3_end/Left_legGot3_end_end
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/Left_ear
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/Left_ear/Left_ear_end
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/Left_ear/Left_ear_end/Left_ear_end_end
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/mouth1
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/mouth1/mouth1_end
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/mouth1/mouth1_end/mouth1_end_end
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/mouth2
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/mouth2/mouth2_end
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/mouth2/mouth2_end/mouth2_end_end
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/Right_ear
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/Right_ear/Right_ear_end
+        weight: 1
+      - path: Goat/RightGot/BodyGot/NeckGot/HeadGot/Right_ear/Right_ear_end/Right_ear_end_end
+        weight: 1
+      - path: Goat/RightGot/BodyGot/Righr_legGot1
+        weight: 1
+      - path: Goat/RightGot/BodyGot/Righr_legGot1/Righr_legGot2
+        weight: 1
+      - path: Goat/RightGot/BodyGot/Righr_legGot1/Righr_legGot2/Righr_legGot3
+        weight: 1
+      - path: Goat/RightGot/BodyGot/Righr_legGot1/Righr_legGot2/Righr_legGot3/Righr_legGot3_end
+        weight: 1
+      - path: Goat/RightGot/BodyGot/Righr_legGot1/Righr_legGot2/Righr_legGot3/Righr_legGot3_end/Righr_legGot3_end_end
+        weight: 1
+      - path: Goat/RightGot/PosteriorLeftlegGot1
+        weight: 1
+      - path: Goat/RightGot/PosteriorLeftlegGot1/PosteriorLeftlegGot2
+        weight: 1
+      - path: Goat/RightGot/PosteriorLeftlegGot1/PosteriorLeftlegGot2/PosteriorLeftlegGot3
+        weight: 1
+      - path: Goat/RightGot/PosteriorLeftlegGot1/PosteriorLeftlegGot2/PosteriorLeftlegGot3/PosteriorLeftlegGot3_end
+        weight: 1
+      - path: Goat/RightGot/PosteriorLeftlegGot1/PosteriorLeftlegGot2/PosteriorLeftlegGot3/PosteriorLeftlegGot3_end/PosteriorLeftlegGot3_end_end
+        weight: 1
+      - path: Goat/RightGot/PosteriorRighr_legGot1
+        weight: 1
+      - path: Goat/RightGot/PosteriorRighr_legGot1/PosteriorRighr_legGot2
+        weight: 1
+      - path: Goat/RightGot/PosteriorRighr_legGot1/PosteriorRighr_legGot2/PosteriorRighr_legGot3
+        weight: 1
+      - path: Goat/RightGot/PosteriorRighr_legGot1/PosteriorRighr_legGot2/PosteriorRighr_legGot3/PosteriorRighr_legGot3_end
+        weight: 1
+      - path: Goat/RightGot/PosteriorRighr_legGot1/PosteriorRighr_legGot2/PosteriorRighr_legGot3/PosteriorRighr_legGot3_end/PosteriorRighr_legGot3_end_end
+        weight: 1
+      - path: Goat/RightGot/TailGot1
+        weight: 1
+      - path: Goat/RightGot/TailGot1/TailGot2
+        weight: 1
+      - path: Goat/RightGot/TailGot1/TailGot2/TailGot2_end
+        weight: 1
+      - path: Goat/RightGot/TailGot1/TailGot2/TailGot2_end/TailGot2_end_end
+        weight: 1
+      - path: Goat.001
+        weight: 1
+      - path: LODGoat1
+        weight: 1
+      - path: LODGoat2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

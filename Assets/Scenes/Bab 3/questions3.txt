@@ -1,0 +1,7 @@
+Memiliki bentuk tetap merupakan ciri dari Zat?,Padat,Cair,Gas,Hidup,1
+Zat yang mengalir ke tempat yang lebih rendah disebut Zat?,Padat,Cair,Gas,Mati,2
+Zat yang dapat bergerak kesegala arah disebut Zat?,Padat,Cair,Gas,Mati,3
+Peristiwa berubahnya Zat dari padat menjadi cair disebut?,Mencair,Membeku,Mengembun,Menyublim,1
+Peristiwa berubahnya Zat dari cair menjadi gas disebut?,Menyublim,Menguap,Mencair,Membeku,2
+Peristiwa berubahnya Zat dari gas menjadi cair disebut?,Mencair,Menyublim,Mengembun,Mengkristal,3
+peristiwa berubahnya Zat dari cair menjadi padat disebut?,Membeku,Mencair,Mengembun,Mengkristal,1

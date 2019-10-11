@@ -1,0 +1,3 @@
+Apa yang diperlukan makhluk hidup untuk bernafas?,Oksigen,Air,Makanan,Suara,1
+Apa yang diperlukan hewan untuk bertumbuh?,Bermain,Bergerak,Cahaya,Makanan,4
+Apa yang akan terjadi jika hewan tidak mendapat makanan?,Mati,Tumbuh,Mengecil,Berubah,1

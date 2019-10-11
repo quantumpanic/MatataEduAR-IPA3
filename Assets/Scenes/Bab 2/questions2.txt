@@ -1,0 +1,9 @@
+Mana yang dapat mencemari udara?,Pohon,Tanah,Asap,Air,3
+Mana yang tergolong sampah yang dapat terurai?,Plastik,Kaleng,Beling,Tulang,4
+Mana yang terbuat dari plastik?,Pensil,Tupperware,Meja,Penggaris,2
+Mana yang terbuat dari besi?,Pensil,Tupperware,Meja,Penggaris,4
+Mana wadah berbelanja yang paling ramah lingkungan?,Kantong plastik, Tas rajutan, Paper bag, Ransel,2
+Pencemaran bisa terjadi ke hal berikut kecuali . . .,Tanah,Air,Udara,Api,4
+Membuang sampah sembarangan bisa menyebabkan . . .,Banjir,Gempa,Angin topan,Tsunami,1
+Mana yang merupakan makanan hewan laut?,Cincin plastik, Jaring nelayan, Sedotan plastik, Ikan, 4
+Apa cara yang baik untuk menjaga agar tanah tidak tercemar?,Menimbun sampah,Menanam pohon,Membuang bahan kimia,Membangun mal,2

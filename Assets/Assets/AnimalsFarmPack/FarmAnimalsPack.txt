@@ -1,0 +1,99 @@
+_FARM ANIMALS PACK_ 
+
+
+this pack contains 7 animated animals
+1 butterfly animated
+sound Effect animals.Format.ogg
+
+
+It contains the following formats Models:
+
+3ds
+b3d
+fbx
+ms3d
+obj
+
+                                          ----       Unity3D Import   ------
+pack created unity 5
+ Version 5.2.4 
+
+import package FarmAnimalsPack in the unity 5
+
+including sound effects animals
+
+
+
+
+
+
+
+
+                                           --Farm Animals Pack Animation---
+other formats animation :
+
+Butterfly Animation:
+
+Idle = 1-41
+Fly = 41-47
+
+Dog Animation:
+ 
+Idle1 = 1 - 410
+Bark = 411 - 430
+Death = 462 - 513
+Idle2 = 549 - 821
+Run = 822 - 833
+Walk = 854 - 833
+
+Cow Animation
+
+
+Idle1 = 1 - 250
+Death = 251 - 341
+Hurt = 502 - 532
+Idle2 = 595 - 814
+Walk = 886 - 925
+
+
+Goat Animation:
+
+
+Idle1 = 1 - 249
+Idle2 = 275 - 484
+Walk = 497 - 526
+Death = 544 - 592
+
+Horse Animation:
+
+
+Idle1 = 1 - 255
+Idle2 = 257 - 508
+Walk = 513 - 551
+Run = 557 - 569
+Hurt = 572 - 605
+Death = 606 - 655
+
+
+Chicken Animation:
+
+Idle1 = 1 - 201
+Idle2 = 202 - 321
+Run = 347 - 369
+Walk = 397 - 434
+
+Sheep Animation:
+
+Idle1 = 1 - 259
+Idle2 = 260 - 508
+Walk = 519 - 558
+Death = 565 - 643
+
+Pig Animation:
+
+Idle1 = 1 - 257
+Run = 271 - 290
+Walk = 302 - 340
+Death = 347 - 376
+
+This package is created by elkan

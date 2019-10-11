@@ -1,0 +1,6 @@
+Pakaian apa yang tepat digunakan untuk musim panas?,Kaos,Jaket Tebal,Penghangat Telinga,Jas Hujan,1
+Pakaian apa yang tepat digunakan untuk musim dingin?,Sendal Jepit,Kaos,Jaket Tebal,Celana Pendek,3
+Awan yang berbentuk seperti burung atau bulu burung disebut . . .,Sirus,Startus,Kumulus,Nimbus,1
+Awan yang berbentuk pipih dan bertumpuk disebut . . .,Sirus,Stratus,Kumulus,Nimbus,2
+Awan yang berbentuk seperti kembang kol dengan warna putih cerah disebut . . .,Sirus,Stratus,Kumulus,Nimbus,3
+Awan yang berwarna hitam membawa hujan deras dan petir disebut . . .,Sirus,Stratus,Kumulus,Nimbus,4

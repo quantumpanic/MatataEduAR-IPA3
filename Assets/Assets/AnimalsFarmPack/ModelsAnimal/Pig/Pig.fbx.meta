@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: 100cfa3b337bab846a37e28b1789af87
+timeCreated: 1461545374
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: lodPig1
+    100002: lodPig2
+    100004: //RootNode
+    100006: Pig1
+    100008: PigArmor
+    100010: PigBody
+    100012: PigHead
+    100014: PigHead_end
+    100016: PigHold
+    100018: PigLeftBoFoot1
+    100020: PigLeftBoFoot2
+    100022: PigLeftBoFoot3
+    100024: PigLeftBoFoot3_end
+    100026: PigLeftfFoot3
+    100028: PigLeftfFoot3_end
+    100030: PigLeftFoot1
+    100032: PigLeftFoot2
+    100034: PigRightBoFoot1
+    100036: PigRightBoFoot2
+    100038: PigRightBoFoot3
+    100040: PigRightBoFoot3_end
+    100042: PigRighttFoot1
+    100044: PigRighttFoot2
+    100046: PigRighttFoot3
+    100048: PigRighttFoot3_end
+    100050: PigTail1
+    100052: PigTail2
+    100054: PigTail3
+    100056: PigTail4
+    100058: PigTail4_end
+    400000: lodPig1
+    400002: lodPig2
+    400004: //RootNode
+    400006: Pig1
+    400008: PigArmor
+    400010: PigBody
+    400012: PigHead
+    400014: PigHead_end
+    400016: PigHold
+    400018: PigLeftBoFoot1
+    400020: PigLeftBoFoot2
+    400022: PigLeftBoFoot3
+    400024: PigLeftBoFoot3_end
+    400026: PigLeftfFoot3
+    400028: PigLeftfFoot3_end
+    400030: PigLeftFoot1
+    400032: PigLeftFoot2
+    400034: PigRightBoFoot1
+    400036: PigRightBoFoot2
+    400038: PigRightBoFoot3
+    400040: PigRightBoFoot3_end
+    400042: PigRighttFoot1
+    400044: PigRighttFoot2
+    400046: PigRighttFoot3
+    400048: PigRighttFoot3_end
+    400050: PigTail1
+    400052: PigTail2
+    400054: PigTail3
+    400056: PigTail4
+    400058: PigTail4_end
+    4300000: lodPig2
+    4300002: lodPig1
+    4300004: Pig1
+    7400000: death
+    7400002: idle
+    7400004: run
+    7400006: walk
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: lodPig1
+    13700002: lodPig2
+    13700004: Pig1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: death
+      takeName: PigArmor|death
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: lodPig1
+        weight: 1
+      - path: lodPig2
+        weight: 1
+      - path: Pig1
+        weight: 1
+      - path: PigArmor
+        weight: 1
+      - path: PigArmor/PigHold
+        weight: 1
+      - path: PigArmor/PigHold/PigBody
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigHead
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigHead/PigHead_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1/PigLeftBoFoot2
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1/PigLeftBoFoot2/PigLeftBoFoot3
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1/PigLeftBoFoot2/PigLeftBoFoot3/PigLeftBoFoot3_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1/PigRightBoFoot2
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1/PigRightBoFoot2/PigRightBoFoot3
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1/PigRightBoFoot2/PigRightBoFoot3/PigRightBoFoot3_end
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1/PigLeftFoot2
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1/PigLeftFoot2/PigLeftfFoot3
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1/PigLeftFoot2/PigLeftfFoot3/PigLeftfFoot3_end
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1/PigRighttFoot2
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1/PigRighttFoot2/PigRighttFoot3
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1/PigRighttFoot2/PigRighttFoot3/PigRighttFoot3_end
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2/PigTail3
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2/PigTail3/PigTail4
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2/PigTail3/PigTail4/PigTail4_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle
+      takeName: PigArmor|idle
+      firstFrame: 0
+      lastFrame: 256
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: lodPig1
+        weight: 1
+      - path: lodPig2
+        weight: 1
+      - path: Pig1
+        weight: 1
+      - path: PigArmor
+        weight: 1
+      - path: PigArmor/PigHold
+        weight: 1
+      - path: PigArmor/PigHold/PigBody
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigHead
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigHead/PigHead_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1/PigLeftBoFoot2
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1/PigLeftBoFoot2/PigLeftBoFoot3
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1/PigLeftBoFoot2/PigLeftBoFoot3/PigLeftBoFoot3_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1/PigRightBoFoot2
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1/PigRightBoFoot2/PigRightBoFoot3
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1/PigRightBoFoot2/PigRightBoFoot3/PigRightBoFoot3_end
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1/PigLeftFoot2
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1/PigLeftFoot2/PigLeftfFoot3
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1/PigLeftFoot2/PigLeftfFoot3/PigLeftfFoot3_end
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1/PigRighttFoot2
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1/PigRighttFoot2/PigRighttFoot3
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1/PigRighttFoot2/PigRighttFoot3/PigRighttFoot3_end
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2/PigTail3
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2/PigTail3/PigTail4
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2/PigTail3/PigTail4/PigTail4_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: run
+      takeName: PigArmor|run
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: lodPig1
+        weight: 1
+      - path: lodPig2
+        weight: 1
+      - path: Pig1
+        weight: 1
+      - path: PigArmor
+        weight: 1
+      - path: PigArmor/PigHold
+        weight: 1
+      - path: PigArmor/PigHold/PigBody
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigHead
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigHead/PigHead_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1/PigLeftBoFoot2
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1/PigLeftBoFoot2/PigLeftBoFoot3
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1/PigLeftBoFoot2/PigLeftBoFoot3/PigLeftBoFoot3_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1/PigRightBoFoot2
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1/PigRightBoFoot2/PigRightBoFoot3
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1/PigRightBoFoot2/PigRightBoFoot3/PigRightBoFoot3_end
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1/PigLeftFoot2
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1/PigLeftFoot2/PigLeftfFoot3
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1/PigLeftFoot2/PigLeftfFoot3/PigLeftfFoot3_end
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1/PigRighttFoot2
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1/PigRighttFoot2/PigRighttFoot3
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1/PigRighttFoot2/PigRighttFoot3/PigRighttFoot3_end
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2/PigTail3
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2/PigTail3/PigTail4
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2/PigTail3/PigTail4/PigTail4_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: walk
+      takeName: PigArmor|walk
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: lodPig1
+        weight: 1
+      - path: lodPig2
+        weight: 1
+      - path: Pig1
+        weight: 1
+      - path: PigArmor
+        weight: 1
+      - path: PigArmor/PigHold
+        weight: 1
+      - path: PigArmor/PigHold/PigBody
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigHead
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigHead/PigHead_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1/PigLeftBoFoot2
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1/PigLeftBoFoot2/PigLeftBoFoot3
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1/PigLeftBoFoot2/PigLeftBoFoot3/PigLeftBoFoot3_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1/PigRightBoFoot2
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1/PigRightBoFoot2/PigRightBoFoot3
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1/PigRightBoFoot2/PigRightBoFoot3/PigRightBoFoot3_end
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1/PigLeftFoot2
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1/PigLeftFoot2/PigLeftfFoot3
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1/PigLeftFoot2/PigLeftfFoot3/PigLeftfFoot3_end
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1/PigRighttFoot2
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1/PigRighttFoot2/PigRighttFoot3
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1/PigRighttFoot2/PigRighttFoot3/PigRighttFoot3_end
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2/PigTail3
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2/PigTail3/PigTail4
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2/PigTail3/PigTail4/PigTail4_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

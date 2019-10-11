@@ -1,0 +1,595 @@
+fileFormatVersion: 2
+guid: a4b39976188e26c4a923c5454635bd24
+timeCreated: 1462141432
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: PigArmor
+    100002: //RootNode
+    100004: PigBody
+    100006: PigHead
+    100008: PigHead_end
+    100010: PigHead_end_end
+    100012: PigHead_end_end_end
+    100014: PigHold
+    100016: PigLeftBoFoot1
+    100018: PigLeftBoFoot2
+    100020: PigLeftBoFoot3
+    100022: PigLeftBoFoot3_end
+    100024: PigLeftBoFoot3_end_end
+    100026: PigLeftBoFoot3_end_end_end
+    100028: PigLeftfFoot3
+    100030: PigLeftfFoot3_end
+    100032: PigLeftfFoot3_end_end
+    100034: PigLeftfFoot3_end_end_end
+    100036: PigLeftFoot1
+    100038: PigLeftFoot2
+    100040: PigLOD1
+    100042: PigLOD2
+    100044: PigRightBoFoot1
+    100046: PigRightBoFoot2
+    100048: PigRightBoFoot3
+    100050: PigRightBoFoot3_end
+    100052: PigRightBoFoot3_end_end
+    100054: PigRightBoFoot3_end_end_end
+    100056: PigRighttFoot1
+    100058: PigRighttFoot2
+    100060: PigRighttFoot3
+    100062: PigRighttFoot3_end
+    100064: PigRighttFoot3_end_end
+    100066: PigRighttFoot3_end_end_end
+    100068: PigTail1
+    100070: PigTail2
+    100072: PigTail3
+    100074: PigTail4
+    100076: PigTail4_end
+    100078: PigTail4_end_end
+    100080: PigTail4_end_end_end
+    400000: PigArmor
+    400002: //RootNode
+    400004: PigBody
+    400006: PigHead
+    400008: PigHead_end
+    400010: PigHead_end_end
+    400012: PigHead_end_end_end
+    400014: PigHold
+    400016: PigLeftBoFoot1
+    400018: PigLeftBoFoot2
+    400020: PigLeftBoFoot3
+    400022: PigLeftBoFoot3_end
+    400024: PigLeftBoFoot3_end_end
+    400026: PigLeftBoFoot3_end_end_end
+    400028: PigLeftfFoot3
+    400030: PigLeftfFoot3_end
+    400032: PigLeftfFoot3_end_end
+    400034: PigLeftfFoot3_end_end_end
+    400036: PigLeftFoot1
+    400038: PigLeftFoot2
+    400040: PigLOD1
+    400042: PigLOD2
+    400044: PigRightBoFoot1
+    400046: PigRightBoFoot2
+    400048: PigRightBoFoot3
+    400050: PigRightBoFoot3_end
+    400052: PigRightBoFoot3_end_end
+    400054: PigRightBoFoot3_end_end_end
+    400056: PigRighttFoot1
+    400058: PigRighttFoot2
+    400060: PigRighttFoot3
+    400062: PigRighttFoot3_end
+    400064: PigRighttFoot3_end_end
+    400066: PigRighttFoot3_end_end_end
+    400068: PigTail1
+    400070: PigTail2
+    400072: PigTail3
+    400074: PigTail4
+    400076: PigTail4_end
+    400078: PigTail4_end_end
+    400080: PigTail4_end_end_end
+    4300000: PigLOD2
+    4300002: PigLOD1
+    7400000: death
+    7400002: idle1
+    7400004: run
+    7400006: walk
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: PigLOD1
+    13700002: PigLOD2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: death
+      takeName: PigArmor|PigArmor|PigArmor|PigArmor|PigArmor|death|PigArmor|death|PigArm
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: PigArmor
+        weight: 1
+      - path: PigArmor/PigHold
+        weight: 1
+      - path: PigArmor/PigHold/PigBody
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigHead
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigHead/PigHead_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigHead/PigHead_end/PigHead_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigHead/PigHead_end/PigHead_end_end/PigHead_end_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1/PigLeftBoFoot2
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1/PigLeftBoFoot2/PigLeftBoFoot3
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1/PigLeftBoFoot2/PigLeftBoFoot3/PigLeftBoFoot3_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1/PigLeftBoFoot2/PigLeftBoFoot3/PigLeftBoFoot3_end/PigLeftBoFoot3_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1/PigLeftBoFoot2/PigLeftBoFoot3/PigLeftBoFoot3_end/PigLeftBoFoot3_end_end/PigLeftBoFoot3_end_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1/PigRightBoFoot2
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1/PigRightBoFoot2/PigRightBoFoot3
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1/PigRightBoFoot2/PigRightBoFoot3/PigRightBoFoot3_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1/PigRightBoFoot2/PigRightBoFoot3/PigRightBoFoot3_end/PigRightBoFoot3_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1/PigRightBoFoot2/PigRightBoFoot3/PigRightBoFoot3_end/PigRightBoFoot3_end_end/PigRightBoFoot3_end_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1/PigLeftFoot2
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1/PigLeftFoot2/PigLeftfFoot3
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1/PigLeftFoot2/PigLeftfFoot3/PigLeftfFoot3_end
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1/PigLeftFoot2/PigLeftfFoot3/PigLeftfFoot3_end/PigLeftfFoot3_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1/PigLeftFoot2/PigLeftfFoot3/PigLeftfFoot3_end/PigLeftfFoot3_end_end/PigLeftfFoot3_end_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1/PigRighttFoot2
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1/PigRighttFoot2/PigRighttFoot3
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1/PigRighttFoot2/PigRighttFoot3/PigRighttFoot3_end
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1/PigRighttFoot2/PigRighttFoot3/PigRighttFoot3_end/PigRighttFoot3_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1/PigRighttFoot2/PigRighttFoot3/PigRighttFoot3_end/PigRighttFoot3_end_end/PigRighttFoot3_end_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2/PigTail3
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2/PigTail3/PigTail4
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2/PigTail3/PigTail4/PigTail4_end
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2/PigTail3/PigTail4/PigTail4_end/PigTail4_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2/PigTail3/PigTail4/PigTail4_end/PigTail4_end_end/PigTail4_end_end_end
+        weight: 1
+      - path: PigLOD1
+        weight: 1
+      - path: PigLOD2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle1
+      takeName: PigArmor|PigArmor|PigArmor|PigArmor|PigArmor|idle|PigArmor|idle|PigArmor
+      firstFrame: 0
+      lastFrame: 256
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: PigArmor
+        weight: 1
+      - path: PigArmor/PigHold
+        weight: 1
+      - path: PigArmor/PigHold/PigBody
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigHead
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigHead/PigHead_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigHead/PigHead_end/PigHead_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigHead/PigHead_end/PigHead_end_end/PigHead_end_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1/PigLeftBoFoot2
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1/PigLeftBoFoot2/PigLeftBoFoot3
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1/PigLeftBoFoot2/PigLeftBoFoot3/PigLeftBoFoot3_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1/PigLeftBoFoot2/PigLeftBoFoot3/PigLeftBoFoot3_end/PigLeftBoFoot3_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1/PigLeftBoFoot2/PigLeftBoFoot3/PigLeftBoFoot3_end/PigLeftBoFoot3_end_end/PigLeftBoFoot3_end_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1/PigRightBoFoot2
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1/PigRightBoFoot2/PigRightBoFoot3
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1/PigRightBoFoot2/PigRightBoFoot3/PigRightBoFoot3_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1/PigRightBoFoot2/PigRightBoFoot3/PigRightBoFoot3_end/PigRightBoFoot3_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1/PigRightBoFoot2/PigRightBoFoot3/PigRightBoFoot3_end/PigRightBoFoot3_end_end/PigRightBoFoot3_end_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1/PigLeftFoot2
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1/PigLeftFoot2/PigLeftfFoot3
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1/PigLeftFoot2/PigLeftfFoot3/PigLeftfFoot3_end
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1/PigLeftFoot2/PigLeftfFoot3/PigLeftfFoot3_end/PigLeftfFoot3_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1/PigLeftFoot2/PigLeftfFoot3/PigLeftfFoot3_end/PigLeftfFoot3_end_end/PigLeftfFoot3_end_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1/PigRighttFoot2
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1/PigRighttFoot2/PigRighttFoot3
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1/PigRighttFoot2/PigRighttFoot3/PigRighttFoot3_end
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1/PigRighttFoot2/PigRighttFoot3/PigRighttFoot3_end/PigRighttFoot3_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1/PigRighttFoot2/PigRighttFoot3/PigRighttFoot3_end/PigRighttFoot3_end_end/PigRighttFoot3_end_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2/PigTail3
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2/PigTail3/PigTail4
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2/PigTail3/PigTail4/PigTail4_end
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2/PigTail3/PigTail4/PigTail4_end/PigTail4_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2/PigTail3/PigTail4/PigTail4_end/PigTail4_end_end/PigTail4_end_end_end
+        weight: 1
+      - path: PigLOD1
+        weight: 1
+      - path: PigLOD2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: run
+      takeName: PigArmor|PigArmor|PigArmor|PigArmor|PigArmor|run|PigArmor|run|PigArmor|P
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: PigArmor
+        weight: 1
+      - path: PigArmor/PigHold
+        weight: 1
+      - path: PigArmor/PigHold/PigBody
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigHead
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigHead/PigHead_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigHead/PigHead_end/PigHead_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigHead/PigHead_end/PigHead_end_end/PigHead_end_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1/PigLeftBoFoot2
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1/PigLeftBoFoot2/PigLeftBoFoot3
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1/PigLeftBoFoot2/PigLeftBoFoot3/PigLeftBoFoot3_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1/PigLeftBoFoot2/PigLeftBoFoot3/PigLeftBoFoot3_end/PigLeftBoFoot3_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1/PigLeftBoFoot2/PigLeftBoFoot3/PigLeftBoFoot3_end/PigLeftBoFoot3_end_end/PigLeftBoFoot3_end_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1/PigRightBoFoot2
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1/PigRightBoFoot2/PigRightBoFoot3
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1/PigRightBoFoot2/PigRightBoFoot3/PigRightBoFoot3_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1/PigRightBoFoot2/PigRightBoFoot3/PigRightBoFoot3_end/PigRightBoFoot3_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1/PigRightBoFoot2/PigRightBoFoot3/PigRightBoFoot3_end/PigRightBoFoot3_end_end/PigRightBoFoot3_end_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1/PigLeftFoot2
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1/PigLeftFoot2/PigLeftfFoot3
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1/PigLeftFoot2/PigLeftfFoot3/PigLeftfFoot3_end
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1/PigLeftFoot2/PigLeftfFoot3/PigLeftfFoot3_end/PigLeftfFoot3_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1/PigLeftFoot2/PigLeftfFoot3/PigLeftfFoot3_end/PigLeftfFoot3_end_end/PigLeftfFoot3_end_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1/PigRighttFoot2
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1/PigRighttFoot2/PigRighttFoot3
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1/PigRighttFoot2/PigRighttFoot3/PigRighttFoot3_end
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1/PigRighttFoot2/PigRighttFoot3/PigRighttFoot3_end/PigRighttFoot3_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1/PigRighttFoot2/PigRighttFoot3/PigRighttFoot3_end/PigRighttFoot3_end_end/PigRighttFoot3_end_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2/PigTail3
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2/PigTail3/PigTail4
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2/PigTail3/PigTail4/PigTail4_end
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2/PigTail3/PigTail4/PigTail4_end/PigTail4_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2/PigTail3/PigTail4/PigTail4_end/PigTail4_end_end/PigTail4_end_end_end
+        weight: 1
+      - path: PigLOD1
+        weight: 1
+      - path: PigLOD2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: walk
+      takeName: PigArmor|PigArmor|PigArmor|PigArmor|PigArmor|walk|PigArmor|walk|PigArmor
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: PigArmor
+        weight: 1
+      - path: PigArmor/PigHold
+        weight: 1
+      - path: PigArmor/PigHold/PigBody
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigHead
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigHead/PigHead_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigHead/PigHead_end/PigHead_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigHead/PigHead_end/PigHead_end_end/PigHead_end_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1/PigLeftBoFoot2
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1/PigLeftBoFoot2/PigLeftBoFoot3
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1/PigLeftBoFoot2/PigLeftBoFoot3/PigLeftBoFoot3_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1/PigLeftBoFoot2/PigLeftBoFoot3/PigLeftBoFoot3_end/PigLeftBoFoot3_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigLeftBoFoot1/PigLeftBoFoot2/PigLeftBoFoot3/PigLeftBoFoot3_end/PigLeftBoFoot3_end_end/PigLeftBoFoot3_end_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1/PigRightBoFoot2
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1/PigRightBoFoot2/PigRightBoFoot3
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1/PigRightBoFoot2/PigRightBoFoot3/PigRightBoFoot3_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1/PigRightBoFoot2/PigRightBoFoot3/PigRightBoFoot3_end/PigRightBoFoot3_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigBody/PigRightBoFoot1/PigRightBoFoot2/PigRightBoFoot3/PigRightBoFoot3_end/PigRightBoFoot3_end_end/PigRightBoFoot3_end_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1/PigLeftFoot2
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1/PigLeftFoot2/PigLeftfFoot3
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1/PigLeftFoot2/PigLeftfFoot3/PigLeftfFoot3_end
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1/PigLeftFoot2/PigLeftfFoot3/PigLeftfFoot3_end/PigLeftfFoot3_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigLeftFoot1/PigLeftFoot2/PigLeftfFoot3/PigLeftfFoot3_end/PigLeftfFoot3_end_end/PigLeftfFoot3_end_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1/PigRighttFoot2
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1/PigRighttFoot2/PigRighttFoot3
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1/PigRighttFoot2/PigRighttFoot3/PigRighttFoot3_end
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1/PigRighttFoot2/PigRighttFoot3/PigRighttFoot3_end/PigRighttFoot3_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigRighttFoot1/PigRighttFoot2/PigRighttFoot3/PigRighttFoot3_end/PigRighttFoot3_end_end/PigRighttFoot3_end_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2/PigTail3
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2/PigTail3/PigTail4
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2/PigTail3/PigTail4/PigTail4_end
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2/PigTail3/PigTail4/PigTail4_end/PigTail4_end_end
+        weight: 1
+      - path: PigArmor/PigHold/PigTail1/PigTail2/PigTail3/PigTail4/PigTail4_end/PigTail4_end_end/PigTail4_end_end_end
+        weight: 1
+      - path: PigLOD1
+        weight: 1
+      - path: PigLOD2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

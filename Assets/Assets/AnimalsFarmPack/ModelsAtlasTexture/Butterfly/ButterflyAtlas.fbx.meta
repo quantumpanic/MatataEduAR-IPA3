@@ -1,0 +1,249 @@
+fileFormatVersion: 2
+guid: fb899341322aaf140802acaa2aab8135
+timeCreated: 1462142044
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Butterfly
+    100002: //RootNode
+    100004: butterflyLOD1
+    100006: butterflyLOD2
+    100008: center
+    100010: left wing
+    100012: left wing_end
+    100014: left wing_end_end
+    100016: right wing
+    100018: right wing_end
+    100020: right wing_end_end
+    100022: support wings left
+    100024: support wings right
+    100026: tail 1
+    100028: tail2
+    100030: tail2_end
+    100032: tail2_end_end
+    400000: Butterfly
+    400002: //RootNode
+    400004: butterflyLOD1
+    400006: butterflyLOD2
+    400008: center
+    400010: left wing
+    400012: left wing_end
+    400014: left wing_end_end
+    400016: right wing
+    400018: right wing_end
+    400020: right wing_end_end
+    400022: support wings left
+    400024: support wings right
+    400026: tail 1
+    400028: tail2
+    400030: tail2_end
+    400032: tail2_end_end
+    4300000: butterflyLOD2
+    4300002: butterflyLOD1
+    7400000: fly
+    7400002: Butterfly|Butterfly|Butterfly|fly.002|Butterfly|fly.002
+    7400004: Butterfly|butterfly|butterfly|fly|butterfly|fly
+    7400006: Butterfly|Butterfly|Butterfly|fly|Butterfly|fly
+    7400008: Butterfly|butterfly|butterfly|fly|butterfly|fly.001
+    7400010: idle
+    7400012: Butterfly|lodButterfly1|lodButterfly1|fly.001|lodButterfly1|fly.001
+    7400014: Butterfly|lodButterfly2|lodButterfly2|fly.002|lodButterfly2|fly.002
+    7400016: butterflyLOD2|butterfly|butterfly|fly|butterfly|fly
+    7400018: butterflyLOD2|butterfly|butterfly|fly|butterfly|fly.001
+    7400020: butterflyLOD2|lodButterfly1|lodButterfly1|fly.001|lodButterfly1|fly.001
+    7400022: butterflyLOD2|lodButterfly2|lodButterfly2|fly.002|lodButterfly2|fly.002
+    7400024: butterflyLOD1|butterfly|butterfly|fly|butterfly|fly
+    7400026: butterflyLOD1|butterfly|butterfly|fly|butterfly|fly.001
+    7400028: butterflyLOD1|lodButterfly1|lodButterfly1|fly.001|lodButterfly1|fly.001
+    7400030: butterflyLOD1|lodButterfly2|lodButterfly2|fly.002|lodButterfly2|fly.002
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: butterflyLOD1
+    13700002: butterflyLOD2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: fly
+      takeName: Butterfly|Butterfly|Butterfly|fly.001|Butterfly|fly.001
+      firstFrame: 0
+      lastFrame: 6
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Butterfly
+        weight: 1
+      - path: Butterfly/center
+        weight: 1
+      - path: Butterfly/center/support wings left
+        weight: 1
+      - path: Butterfly/center/support wings left/left wing
+        weight: 1
+      - path: Butterfly/center/support wings left/left wing/left wing_end
+        weight: 1
+      - path: Butterfly/center/support wings left/left wing/left wing_end/left wing_end_end
+        weight: 1
+      - path: Butterfly/center/support wings right
+        weight: 1
+      - path: Butterfly/center/support wings right/right wing
+        weight: 1
+      - path: Butterfly/center/support wings right/right wing/right wing_end
+        weight: 1
+      - path: Butterfly/center/support wings right/right wing/right wing_end/right
+          wing_end_end
+        weight: 1
+      - path: Butterfly/center/tail 1
+        weight: 1
+      - path: Butterfly/center/tail 1/tail2
+        weight: 1
+      - path: Butterfly/center/tail 1/tail2/tail2_end
+        weight: 1
+      - path: Butterfly/center/tail 1/tail2/tail2_end/tail2_end_end
+        weight: 1
+      - path: butterflyLOD1
+        weight: 1
+      - path: butterflyLOD2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle
+      takeName: Butterfly|Butterfly|Butterfly|idle|Butterfly|idle
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Butterfly
+        weight: 1
+      - path: Butterfly/center
+        weight: 1
+      - path: Butterfly/center/support wings left
+        weight: 1
+      - path: Butterfly/center/support wings left/left wing
+        weight: 1
+      - path: Butterfly/center/support wings left/left wing/left wing_end
+        weight: 1
+      - path: Butterfly/center/support wings left/left wing/left wing_end/left wing_end_end
+        weight: 1
+      - path: Butterfly/center/support wings right
+        weight: 1
+      - path: Butterfly/center/support wings right/right wing
+        weight: 1
+      - path: Butterfly/center/support wings right/right wing/right wing_end
+        weight: 1
+      - path: Butterfly/center/support wings right/right wing/right wing_end/right
+          wing_end_end
+        weight: 1
+      - path: Butterfly/center/tail 1
+        weight: 1
+      - path: Butterfly/center/tail 1/tail2
+        weight: 1
+      - path: Butterfly/center/tail 1/tail2/tail2_end
+        weight: 1
+      - path: Butterfly/center/tail 1/tail2/tail2_end/tail2_end_end
+        weight: 1
+      - path: butterflyLOD1
+        weight: 1
+      - path: butterflyLOD2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1488875825516824}
+  m_IsPrefabParent: 1
+--- !u!1 &1488875825516824
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4045344427819816}
+  - component: {fileID: 114568869774553276}
+  m_Layer: 0
+  m_Name: Objectives
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4045344427819816
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1488875825516824}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114568869774553276
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1488875825516824}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c7eaefc5b1028c4e9b7fe673b2c6907, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameData:
+    name: 
+    isUnlocked: 0
+    star1: 0
+    star2: 0
+    star3: 0
+    stars: 0
+    knowledgeStar: 0
+    knowledgeTime: 0
+    timeRecord: 0
+    labelName: 
+  score: 0
+  gameDataStar1: 0
+  gameDataStar2: 0
+  gameDataStar3: 0
+  isPlaying: 0
+  isGameOver: 0
+  curScore: 0
+  timeElapsed: 0
+  objectivePrefab: {fileID: 1392764278413994, guid: 10e0a3f3ca2fe144fa8df6b6701d8da6,
+    type: 2}
+  objectives: []

@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: 0c1285818d20fe34eadd8b7bf2715e51
+timeCreated: 1462143473
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bust
+    100002: Center
+    100004: ChikenAnim
+    100006: //RootNode
+    100008: ChikenLOD1
+    100010: ChikenLOD2
+    100012: Head
+    100014: Head_end
+    100016: Head_end_end
+    100018: Head_end_end_end
+    100020: Head_end_end_end_end
+    100022: Head_end_end_end_end_end
+    100024: Neck
+    100026: PawL1
+    100028: PawL2
+    100030: PawL2_end
+    100032: PawL2_end_end
+    100034: PawL2_end_end_end
+    100036: PawL2_end_end_end_end
+    100038: PawL2_end_end_end_end_end
+    100040: pawLeft
+    100042: PawR1
+    100044: PawR2
+    100046: PawR2_end
+    100048: PawR2_end_end
+    100050: PawR2_end_end_end
+    100052: PawR2_end_end_end_end
+    100054: PawR2_end_end_end_end_end
+    100056: pawRight
+    100058: Tail
+    100060: Tail_end
+    100062: Tail_end_end
+    100064: Tail_end_end_end
+    100066: Tail_end_end_end_end
+    100068: Tail_end_end_end_end_end
+    400000: Bust
+    400002: Center
+    400004: ChikenAnim
+    400006: //RootNode
+    400008: ChikenLOD1
+    400010: ChikenLOD2
+    400012: Head
+    400014: Head_end
+    400016: Head_end_end
+    400018: Head_end_end_end
+    400020: Head_end_end_end_end
+    400022: Head_end_end_end_end_end
+    400024: Neck
+    400026: PawL1
+    400028: PawL2
+    400030: PawL2_end
+    400032: PawL2_end_end
+    400034: PawL2_end_end_end
+    400036: PawL2_end_end_end_end
+    400038: PawL2_end_end_end_end_end
+    400040: pawLeft
+    400042: PawR1
+    400044: PawR2
+    400046: PawR2_end
+    400048: PawR2_end_end
+    400050: PawR2_end_end_end
+    400052: PawR2_end_end_end_end
+    400054: PawR2_end_end_end_end_end
+    400056: pawRight
+    400058: Tail
+    400060: Tail_end
+    400062: Tail_end_end
+    400064: Tail_end_end_end
+    400066: Tail_end_end_end_end
+    400068: Tail_end_end_end_end_end
+    4300000: ChikenLOD2
+    4300002: ChikenLOD1
+    7400000: idle1
+    7400002: walk
+    7400004: idle2
+    7400006: run
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: ChikenLOD1
+    13700002: ChikenLOD2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle1
+      takeName: ChikenAnim|ChikenAnim|ChikenAnim|ChikenAnim|ChikenAnim|ChikenAnim|Chik.000
+      firstFrame: 0
+      lastFrame: 199
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ChikenAnim
+        weight: 1
+      - path: ChikenAnim/Center
+        weight: 1
+      - path: ChikenAnim/Center/Bust
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head/Head_end
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head/Head_end/Head_end_end
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head/Head_end/Head_end_end/Head_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head/Head_end/Head_end_end/Head_end_end_end/Head_end_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head/Head_end/Head_end_end/Head_end_end_end/Head_end_end_end_end/Head_end_end_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2/PawL2_end
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2/PawL2_end/PawL2_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2/PawL2_end/PawL2_end_end/PawL2_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2/PawL2_end/PawL2_end_end/PawL2_end_end_end/PawL2_end_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2/PawL2_end/PawL2_end_end/PawL2_end_end_end/PawL2_end_end_end_end/PawL2_end_end_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawRight
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2/PawR2_end
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2/PawR2_end/PawR2_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2/PawR2_end/PawR2_end_end/PawR2_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2/PawR2_end/PawR2_end_end/PawR2_end_end_end/PawR2_end_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2/PawR2_end/PawR2_end_end/PawR2_end_end_end/PawR2_end_end_end_end/PawR2_end_end_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/Tail
+        weight: 1
+      - path: ChikenAnim/Center/Tail/Tail_end
+        weight: 1
+      - path: ChikenAnim/Center/Tail/Tail_end/Tail_end_end
+        weight: 1
+      - path: ChikenAnim/Center/Tail/Tail_end/Tail_end_end/Tail_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/Tail/Tail_end/Tail_end_end/Tail_end_end_end/Tail_end_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/Tail/Tail_end/Tail_end_end/Tail_end_end_end/Tail_end_end_end_end/Tail_end_end_end_end_end
+        weight: 1
+      - path: ChikenLOD1
+        weight: 1
+      - path: ChikenLOD2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: walk
+      takeName: ChikenAnim|ChikenAnim|ChikenAnim|ChikenAnim|ChikenAnim|ChikenAnim|Chik.001
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ChikenAnim
+        weight: 1
+      - path: ChikenAnim/Center
+        weight: 1
+      - path: ChikenAnim/Center/Bust
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head/Head_end
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head/Head_end/Head_end_end
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head/Head_end/Head_end_end/Head_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head/Head_end/Head_end_end/Head_end_end_end/Head_end_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head/Head_end/Head_end_end/Head_end_end_end/Head_end_end_end_end/Head_end_end_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2/PawL2_end
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2/PawL2_end/PawL2_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2/PawL2_end/PawL2_end_end/PawL2_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2/PawL2_end/PawL2_end_end/PawL2_end_end_end/PawL2_end_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2/PawL2_end/PawL2_end_end/PawL2_end_end_end/PawL2_end_end_end_end/PawL2_end_end_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawRight
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2/PawR2_end
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2/PawR2_end/PawR2_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2/PawR2_end/PawR2_end_end/PawR2_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2/PawR2_end/PawR2_end_end/PawR2_end_end_end/PawR2_end_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2/PawR2_end/PawR2_end_end/PawR2_end_end_end/PawR2_end_end_end_end/PawR2_end_end_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/Tail
+        weight: 1
+      - path: ChikenAnim/Center/Tail/Tail_end
+        weight: 1
+      - path: ChikenAnim/Center/Tail/Tail_end/Tail_end_end
+        weight: 1
+      - path: ChikenAnim/Center/Tail/Tail_end/Tail_end_end/Tail_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/Tail/Tail_end/Tail_end_end/Tail_end_end_end/Tail_end_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/Tail/Tail_end/Tail_end_end/Tail_end_end_end/Tail_end_end_end_end/Tail_end_end_end_end_end
+        weight: 1
+      - path: ChikenLOD1
+        weight: 1
+      - path: ChikenLOD2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle2
+      takeName: ChikenAnim|ChikenAnim|ChikenAnim|ChikenAnim|ChikenAnim|ChikenAnim|Chik.002
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ChikenAnim
+        weight: 1
+      - path: ChikenAnim/Center
+        weight: 1
+      - path: ChikenAnim/Center/Bust
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head/Head_end
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head/Head_end/Head_end_end
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head/Head_end/Head_end_end/Head_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head/Head_end/Head_end_end/Head_end_end_end/Head_end_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head/Head_end/Head_end_end/Head_end_end_end/Head_end_end_end_end/Head_end_end_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2/PawL2_end
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2/PawL2_end/PawL2_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2/PawL2_end/PawL2_end_end/PawL2_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2/PawL2_end/PawL2_end_end/PawL2_end_end_end/PawL2_end_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2/PawL2_end/PawL2_end_end/PawL2_end_end_end/PawL2_end_end_end_end/PawL2_end_end_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawRight
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2/PawR2_end
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2/PawR2_end/PawR2_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2/PawR2_end/PawR2_end_end/PawR2_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2/PawR2_end/PawR2_end_end/PawR2_end_end_end/PawR2_end_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2/PawR2_end/PawR2_end_end/PawR2_end_end_end/PawR2_end_end_end_end/PawR2_end_end_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/Tail
+        weight: 1
+      - path: ChikenAnim/Center/Tail/Tail_end
+        weight: 1
+      - path: ChikenAnim/Center/Tail/Tail_end/Tail_end_end
+        weight: 1
+      - path: ChikenAnim/Center/Tail/Tail_end/Tail_end_end/Tail_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/Tail/Tail_end/Tail_end_end/Tail_end_end_end/Tail_end_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/Tail/Tail_end/Tail_end_end/Tail_end_end_end/Tail_end_end_end_end/Tail_end_end_end_end_end
+        weight: 1
+      - path: ChikenLOD1
+        weight: 1
+      - path: ChikenLOD2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: run
+      takeName: ChikenAnim|ChikenAnim|ChikenAnim|ChikenAnim|ChikenAnim|ChikenAnim|ChikenAn
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ChikenAnim
+        weight: 1
+      - path: ChikenAnim/Center
+        weight: 1
+      - path: ChikenAnim/Center/Bust
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head/Head_end
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head/Head_end/Head_end_end
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head/Head_end/Head_end_end/Head_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head/Head_end/Head_end_end/Head_end_end_end/Head_end_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head/Head_end/Head_end_end/Head_end_end_end/Head_end_end_end_end/Head_end_end_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2/PawL2_end
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2/PawL2_end/PawL2_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2/PawL2_end/PawL2_end_end/PawL2_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2/PawL2_end/PawL2_end_end/PawL2_end_end_end/PawL2_end_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2/PawL2_end/PawL2_end_end/PawL2_end_end_end/PawL2_end_end_end_end/PawL2_end_end_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawRight
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2/PawR2_end
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2/PawR2_end/PawR2_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2/PawR2_end/PawR2_end_end/PawR2_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2/PawR2_end/PawR2_end_end/PawR2_end_end_end/PawR2_end_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2/PawR2_end/PawR2_end_end/PawR2_end_end_end/PawR2_end_end_end_end/PawR2_end_end_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/Tail
+        weight: 1
+      - path: ChikenAnim/Center/Tail/Tail_end
+        weight: 1
+      - path: ChikenAnim/Center/Tail/Tail_end/Tail_end_end
+        weight: 1
+      - path: ChikenAnim/Center/Tail/Tail_end/Tail_end_end/Tail_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/Tail/Tail_end/Tail_end_end/Tail_end_end_end/Tail_end_end_end_end
+        weight: 1
+      - path: ChikenAnim/Center/Tail/Tail_end/Tail_end_end/Tail_end_end_end/Tail_end_end_end_end/Tail_end_end_end_end_end
+        weight: 1
+      - path: ChikenLOD1
+        weight: 1
+      - path: ChikenLOD2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

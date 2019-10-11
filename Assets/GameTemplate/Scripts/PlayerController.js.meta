@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 29e0466792017de44a6c9eb9f571c797
+timeCreated: 1495812460
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cam: {instanceID: 0}
+  - bubles: {instanceID: 0}
+  - fishSprite1: {instanceID: 0}
+  - fishSprite2: {instanceID: 0}
+  - fishSprite3: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

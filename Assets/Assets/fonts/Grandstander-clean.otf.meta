@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2bc2dbb00701a432a8ceb76a445e76f9
+timeCreated: 1498640690
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Granstander Clean
+  fontNames:
+  - Granstander Clean
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0630e4e80988e414198cf5fd29f756aa, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

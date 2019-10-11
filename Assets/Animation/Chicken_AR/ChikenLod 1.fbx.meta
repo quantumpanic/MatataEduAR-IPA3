@@ -1,0 +1,427 @@
+fileFormatVersion: 2
+guid: 6cf16edff902a9f48a3dd2476e19b136
+timeCreated: 1462046367
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bust
+    100002: Center
+    100004: Chiken
+    100006: ChikenAnim
+    100008: //RootNode
+    100010: Head
+    100012: Head_end
+    100014: Head_end_end
+    100016: Lod1Chiken
+    100018: Lod2Chiken
+    100020: Neck
+    100022: PawL1
+    100024: PawL2
+    100026: PawL2_end
+    100028: PawL2_end_end
+    100030: pawLeft
+    100032: PawR1
+    100034: PawR2
+    100036: PawR2_end
+    100038: PawR2_end_end
+    100040: pawRight
+    100042: Tail
+    100044: Tail_end
+    100046: Tail_end_end
+    400000: Bust
+    400002: Center
+    400004: Chiken
+    400006: ChikenAnim
+    400008: //RootNode
+    400010: Head
+    400012: Head_end
+    400014: Head_end_end
+    400016: Lod1Chiken
+    400018: Lod2Chiken
+    400020: Neck
+    400022: PawL1
+    400024: PawL2
+    400026: PawL2_end
+    400028: PawL2_end_end
+    400030: pawLeft
+    400032: PawR1
+    400034: PawR2
+    400036: PawR2_end
+    400038: PawR2_end_end
+    400040: pawRight
+    400042: Tail
+    400044: Tail_end
+    400046: Tail_end_end
+    4300000: Lod1Chiken
+    4300002: Lod2Chiken
+    4300004: Chiken
+    7400000: eat
+    7400002: idle
+    7400004: run
+    7400006: walk
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Chiken
+    13700002: Lod1Chiken
+    13700004: Lod2Chiken
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: eat
+      takeName: ChikenAnim|ChikenAnim|ChikenAnim|eat|ChikenAnim|eat
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Chiken
+        weight: 1
+      - path: ChikenAnim
+        weight: 1
+      - path: ChikenAnim/Center
+        weight: 1
+      - path: ChikenAnim/Center/Bust
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head/Head_end
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head/Head_end/Head_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2/PawL2_end
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2/PawL2_end/PawL2_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawRight
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2/PawR2_end
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2/PawR2_end/PawR2_end_end
+        weight: 1
+      - path: ChikenAnim/Center/Tail
+        weight: 1
+      - path: ChikenAnim/Center/Tail/Tail_end
+        weight: 1
+      - path: ChikenAnim/Center/Tail/Tail_end/Tail_end_end
+        weight: 1
+      - path: Lod1Chiken
+        weight: 1
+      - path: Lod2Chiken
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle
+      takeName: ChikenAnim|ChikenAnim|ChikenAnim|idle|ChikenAnim|idle
+      firstFrame: 0
+      lastFrame: 199
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Chiken
+        weight: 1
+      - path: ChikenAnim
+        weight: 1
+      - path: ChikenAnim/Center
+        weight: 1
+      - path: ChikenAnim/Center/Bust
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head/Head_end
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head/Head_end/Head_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2/PawL2_end
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2/PawL2_end/PawL2_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawRight
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2/PawR2_end
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2/PawR2_end/PawR2_end_end
+        weight: 1
+      - path: ChikenAnim/Center/Tail
+        weight: 1
+      - path: ChikenAnim/Center/Tail/Tail_end
+        weight: 1
+      - path: ChikenAnim/Center/Tail/Tail_end/Tail_end_end
+        weight: 1
+      - path: Lod1Chiken
+        weight: 1
+      - path: Lod2Chiken
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: run
+      takeName: ChikenAnim|ChikenAnim|ChikenAnim|run|ChikenAnim|run
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Chiken
+        weight: 1
+      - path: ChikenAnim
+        weight: 1
+      - path: ChikenAnim/Center
+        weight: 1
+      - path: ChikenAnim/Center/Bust
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head/Head_end
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head/Head_end/Head_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2/PawL2_end
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2/PawL2_end/PawL2_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawRight
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2/PawR2_end
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2/PawR2_end/PawR2_end_end
+        weight: 1
+      - path: ChikenAnim/Center/Tail
+        weight: 1
+      - path: ChikenAnim/Center/Tail/Tail_end
+        weight: 1
+      - path: ChikenAnim/Center/Tail/Tail_end/Tail_end_end
+        weight: 1
+      - path: Lod1Chiken
+        weight: 1
+      - path: Lod2Chiken
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: walk
+      takeName: ChikenAnim|ChikenAnim|ChikenAnim|walk|ChikenAnim|walk
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Chiken
+        weight: 1
+      - path: ChikenAnim
+        weight: 1
+      - path: ChikenAnim/Center
+        weight: 1
+      - path: ChikenAnim/Center/Bust
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head/Head_end
+        weight: 1
+      - path: ChikenAnim/Center/Bust/Neck/Head/Head_end/Head_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2/PawL2_end
+        weight: 1
+      - path: ChikenAnim/Center/pawLeft/PawL1/PawL2/PawL2_end/PawL2_end_end
+        weight: 1
+      - path: ChikenAnim/Center/pawRight
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2/PawR2_end
+        weight: 1
+      - path: ChikenAnim/Center/pawRight/PawR1/PawR2/PawR2_end/PawR2_end_end
+        weight: 1
+      - path: ChikenAnim/Center/Tail
+        weight: 1
+      - path: ChikenAnim/Center/Tail/Tail_end
+        weight: 1
+      - path: ChikenAnim/Center/Tail/Tail_end/Tail_end_end
+        weight: 1
+      - path: Lod1Chiken
+        weight: 1
+      - path: Lod2Chiken
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

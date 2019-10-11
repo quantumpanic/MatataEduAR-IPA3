@@ -1,0 +1,247 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/root.unity
+    guid: 98b93bdde06822644856e16d3c616373
+  - enabled: 1
+    path: Assets/Scenes/ProgressionMap.unity
+    guid: b55a110ec0d5d4788b540aa23d4eb05f
+  - enabled: 1
+    path: Assets/Scenes/Bab 1/bab1_startpage.unity
+    guid: 30ba3e2945424474bb117f87ae596966
+  - enabled: 1
+    path: Assets/Scenes/Bab 1/Bab1_page1.unity
+    guid: 04cf443967de445d39ab1ba8355336d8
+  - enabled: 1
+    path: Assets/Scenes/HiddenObject.unity
+    guid: 46a35db228091d64fbd36365981bc9fa
+  - enabled: 1
+    path: Assets/Scenes/Bab 1/Bab1_page3.unity
+    guid: 2a486c6d10daf414db3803f2f354f089
+  - enabled: 1
+    path: Assets/Scenes/Bab 1/Bab1_page4.unity
+    guid: 8afec8ddb4d094d3d83dd26727a903c6
+  - enabled: 1
+    path: Assets/Scenes/Bab 1/SwimmingIntro.unity
+    guid: 9c31c0c45f150fa4a9f88fc883a3c08a
+  - enabled: 1
+    path: Assets/Scenes/Bab 1/SwimmingChicken.unity
+    guid: 7dd934411a7a01549ba57c21b9666ad1
+  - enabled: 1
+    path: Assets/Scenes/Bab 1/Bab1_page5.unity
+    guid: 2a4ef80449f974ea4bc99ccbf50fd866
+  - enabled: 1
+    path: Assets/Scenes/Bab 1/Bab1_page6.unity
+    guid: aa2b9156e20294df7bbe5900da058b38
+  - enabled: 1
+    path: Assets/Scenes/Bab 1/Bab1_page7.unity
+    guid: 9774de9bd099140348c30cc651aebee5
+  - enabled: 1
+    path: Assets/Scenes/Bab 1/DragDrop.unity
+    guid: e2dd56554a2990a418fb419a09416de3
+  - enabled: 1
+    path: Assets/Scenes/Bab 1/Bab1_page8.unity
+    guid: 38ae455e5ed704f619b86d9301aa8bef
+  - enabled: 1
+    path: Assets/Scenes/Bab 1/Bab1_page11.unity
+    guid: e29b1733dc0d142b498590adf575a097
+  - enabled: 1
+    path: Assets/Scenes/Bab 1/Bab1_page10.unity
+    guid: 354456a709faf4ed2ad4a1c82e15048f
+  - enabled: 1
+    path: Assets/Scenes/Bab 1/QuizIntro.unity
+    guid: e3f766f62f53dcc4e8fa079c7c351cab
+  - enabled: 1
+    path: Assets/Scenes/Bab 1/Quiz.unity
+    guid: 9c0c53d3643333846874f259d189d334
+  - enabled: 1
+    path: Assets/Scenes/Bab 1/MakhlukHidupMakhlukMati.unity
+    guid: 1ada2c5bdbaad47e88fa8aad72022d84
+  - enabled: 1
+    path: Assets/Scenes/Farm_AR.unity
+    guid: 01564dac11c874988b31a16fd5d55f0e
+  - enabled: 1
+    path: Assets/Scenes/Tumbuhan_AR.unity
+    guid: 35b19bb61396541bf93b14a01d33f227
+  - enabled: 1
+    path: Assets/Scenes/Chicken_AR.unity
+    guid: 5cb477b9ad13f4384976fb3c347d0e3c
+  - enabled: 1
+    path: Assets/Scenes/Bab 1/SwimmingOutro.unity
+    guid: 5862ff74649f76d46adff7540b618c31
+  - enabled: 1
+    path: Assets/Scenes/Bab 1/QuizStart.unity
+    guid: c2119300d0b8d2a41b028b23dd1506ef
+  - enabled: 1
+    path: Assets/Scenes/Bab 1/Introduction_drag.unity
+    guid: a0dddba540426bb409bd41ab4216f3bf
+  - enabled: 1
+    path: Assets/Scenes/Bab 1/Introduction_plant.unity
+    guid: 08d0d31da54fdcd429eabb84805a79e5
+  - enabled: 1
+    path: Assets/Scenes/Bab 1/Introduction_swim.unity
+    guid: 3a786ffd6fa28314e9c115b559fa1e96
+  - enabled: 1
+    path: Assets/Scenes/Bab 1/Reflection_drag.unity
+    guid: 61c8574e20f7d2a4cb07d7d41a277a18
+  - enabled: 1
+    path: Assets/Scenes/Bab 1/Reflection_plant.unity
+    guid: b6c7ab562712f8341877504223ebd6b0
+  - enabled: 1
+    path: Assets/Scenes/Bab 1/Reflection_swim.unity
+    guid: fec7a3d48b5b1ac4d9ee06b3625fa3ec
+  - enabled: 1
+    path: Assets/Scenes/mainmenu.unity
+    guid: a9c36be1d9fa54fcea3f0a393696f4be
+  - enabled: 1
+    path: Assets/Scenes/Bab 1/Introduction_hidden.unity
+    guid: 97276c6a33c0c8a43b55d33b0bb271eb
+  - enabled: 1
+    path: Assets/Scenes/Bab 1/Reflection_hidden.unity
+    guid: e0bfc0d9cf40e374787fc2ec81ff2617
+  - enabled: 1
+    path: Assets/Scenes/Bab 1/SwimmingQuiz.unity
+    guid: 15501f69a4bae1a4085edd0f91fdf521
+  - enabled: 1
+    path: Assets/Scenes/Bab 1/TutorAyam.unity
+    guid: 1ffc54f526e3246a8b5f223f18eba60e
+  - enabled: 1
+    path: Assets/Scenes/TutorAR.unity
+    guid: 0a5c8536f44a94767b8a58de550161d4
+  - enabled: 1
+    path: Assets/Scenes/SceneTransit.unity
+    guid: e03f2e055c7fc3d46ad8407b278edb6c
+  - enabled: 1
+    path: Assets/Scenes/Bab 1/QuizStart2.unity
+    guid: 2321a83cd17d0df43b5346c4af27fa36
+  - enabled: 1
+    path: Assets/Scenes/PerpusMenu.unity
+    guid: a8c0f7f014ca148ef91d2c898084eab0
+  - enabled: 1
+    path: Assets/Scenes/Bab 2/TrashCollector.unity
+    guid: 564422e65e265694e939a7bc12e23065
+  - enabled: 1
+    path: Assets/Scenes/Bab 2/GarbageToss.unity
+    guid: 2307663fc30837146a7fbb300a9a9f2b
+  - enabled: 1
+    path: Assets/Scenes/Bab 3/Bab3_1.unity
+    guid: b9dd631dbd6694449ac855dddac5bf84
+  - enabled: 1
+    path: Assets/Scenes/Bab 3/Bab3_2.unity
+    guid: 1c5543a1c7c91404594e61fe88bfb8e2
+  - enabled: 1
+    path: Assets/Scenes/Bab 3/Bab3_3.unity
+    guid: 948019eb1f013425a84acc1978fc035a
+  - enabled: 1
+    path: Assets/Scenes/Bab 3/Bab3_5.unity
+    guid: bdcaf8b0402684f588564c55fe1e6b5a
+  - enabled: 1
+    path: Assets/Scenes/Bab 4/Bab4_1.unity
+    guid: 6301ac6fbaf1c4a318f48f08d9da4e76
+  - enabled: 1
+    path: Assets/Scenes/Bab 4/Bab4_2.unity
+    guid: 51d96c160653f48d38f705d276e93470
+  - enabled: 1
+    path: Assets/Scenes/Bab 4/Bab4_3.unity
+    guid: cab38c0a97d5948aab11b9dd39d72b29
+  - enabled: 1
+    path: Assets/Scenes/Bab 4/Bab4_5.unity
+    guid: 53960f7685baa4f01943aa537f977c63
+  - enabled: 1
+    path: Assets/Scenes/Bab 6/Bab6_1.unity
+    guid: d72d837e89ace4b20a74dddb8f28faf6
+  - enabled: 1
+    path: Assets/Scenes/Bab 6/Bab6_2.unity
+    guid: edeb77f65359d49e895c42a40c1b4b47
+  - enabled: 1
+    path: Assets/Scenes/Bab 6/Bab6_3.unity
+    guid: c7ba78079e2974bf1ba51906ba368b07
+  - enabled: 1
+    path: Assets/Scenes/Bab 6/Bab6_5.unity
+    guid: e1caf9ffeb5674f70a5da83bc2cd4fb9
+  - enabled: 1
+    path: Assets/Scenes/Progression Map/ProgressionMap1.unity
+    guid: b8734b131eb44433eacfe0662c1a33a5
+  - enabled: 1
+    path: Assets/Scenes/Progression Map/ProgressionMap2.unity
+    guid: 75996b03ea2474396af59e433c3790bc
+  - enabled: 1
+    path: Assets/Scenes/Progression Map/ProgressionMap3.unity
+    guid: c5e06017a3a3a47339386e0f0162dd33
+  - enabled: 1
+    path: Assets/Scenes/Progression Map/ProgressionMap4.unity
+    guid: df049de730ac74bf78bc41e83fdeb488
+  - enabled: 1
+    path: Assets/Scenes/Progression Map/ProgressionMap6.unity
+    guid: 2bd2948fc7247438ba558107362c98cb
+  - enabled: 1
+    path: Assets/Scenes/World Select/World Select.unity
+    guid: 273579a42158d4c338b31027e31f7173
+  - enabled: 1
+    path: Assets/Scenes/Bab 3/Bab3_1_intro.unity
+    guid: 9e63e9f3b813449f5992659335b4e4bc
+  - enabled: 1
+    path: Assets/Scenes/Bab 3/Bab3_2_intro.unity
+    guid: 69636f91a977844e5b6a3a19b0fb48ed
+  - enabled: 1
+    path: Assets/Scenes/Bab 3/Bab3_3_intro.unity
+    guid: 60f17b325239b46ddb256fdd7d790b7e
+  - enabled: 1
+    path: Assets/Scenes/Bab 3/Bab3_5_intro.unity
+    guid: cde740920407643a49a113d3d512548b
+  - enabled: 1
+    path: Assets/Scenes/Bab 4/Bab4_3_intro.unity
+    guid: fad25b2293e5d464fa21a44d59d71794
+  - enabled: 1
+    path: Assets/Scenes/Bab 6/Bab6_1_intro.unity
+    guid: 6c30537b565194a338d2afbb9d122fd0
+  - enabled: 1
+    path: Assets/Scenes/Bab 6/Bab6_2_intro.unity
+    guid: 8c07bc5e514a043a19a6ab963048c466
+  - enabled: 1
+    path: Assets/Scenes/Bab 6/Bab6_3_intro.unity
+    guid: b069b4bb4427b4baca800c3a2441bff6
+  - enabled: 1
+    path: Assets/Scenes/Bab 6/Bab6_5_intro.unity
+    guid: ffa4e4172d8bb444c9567f8810a390dc
+  - enabled: 1
+    path: Assets/Scenes/Bab 1/AnimalMatcher.unity
+    guid: 9afbb8b204f5ce6468d0782dfe2e4314
+  - enabled: 1
+    path: Assets/Scenes/Bab 2/HiddenObject2.unity
+    guid: 9f39e7f24b7bb0e4fbd6a2d2c9624e84
+  - enabled: 1
+    path: Assets/Scenes/Bab 2/MatchGame2.unity
+    guid: 54a9455b8e7fb3144b90d172e1d041e4
+  - enabled: 1
+    path: Assets/Scenes/Bab 4/DamBuilder.unity
+    guid: 46ce1b955f87fa94fbaba13dc8c0735d
+  - enabled: 1
+    path: Assets/Scenes/Bab 3/QuizIntro3.unity
+    guid: 2e5f72d7b7c174db28c4099d52c5a6e3
+  - enabled: 1
+    path: Assets/Scenes/Bab 3/Quiz3.unity
+    guid: 07a5398dc03264271805bdbe34947033
+  - enabled: 1
+    path: Assets/Scenes/Bab 4/Quiz45.unity
+    guid: e35b4763fca3048f1a0fbb507f25b734
+  - enabled: 1
+    path: Assets/Scenes/Bab 4/QuizIntro45.unity
+    guid: 9fd4eae76883f4131b8bda64ee3e5093
+  - enabled: 1
+    path: Assets/Scenes/Bab 6/Quiz6.unity
+    guid: 74e5f9ee6b093491aaac0843c22a3c54
+  - enabled: 1
+    path: Assets/Scenes/Bab 6/QuizIntro6.unity
+    guid: 945442e18cf5046e492ff62f9d28f03d
+  - enabled: 1
+    path: Assets/Scenes/Bab 2/QuizIntro2.unity
+    guid: 5c69087296c628d43bbf2877be56e95f
+  - enabled: 1
+    path: Assets/Scenes/Bab 2/Quiz2.unity
+    guid: c220522d6788d504d9c0326d024db4ae

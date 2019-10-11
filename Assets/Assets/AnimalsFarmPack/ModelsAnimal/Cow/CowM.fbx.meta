@@ -1,0 +1,749 @@
+fileFormatVersion: 2
+guid: c474ef98621e78346a6a19e572bac722
+timeCreated: 1462044901
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Armatura
+    100002: BodyCow
+    100004: CowLOD1
+    100006: //RootNode
+    100008: HeadCow
+    100010: Left ear
+    100012: Left ear_end
+    100014: Left ear_end_end
+    100016: Left legCow1
+    100018: Left legCow2
+    100020: Left legCow3
+    100022: Left legCow3_end
+    100024: Left legCow3_end_end
+    100026: LodCow2
+    100028: NeckCow
+    100030: PosteriorLeftlegCow1
+    100032: PosteriorLeftlegCow2
+    100034: PosteriorLeftlegCow3
+    100036: PosteriorLeftlegCow3_end
+    100038: PosteriorLeftlegCow3_end_end
+    100040: PosteriorRighr legCow1
+    100042: PosteriorRighr legCow2
+    100044: PosteriorRighr legCow3
+    100046: PosteriorRighr legCow3_end
+    100048: PosteriorRighr legCow3_end_end
+    100050: Righr legCow1
+    100052: Righr legCow2
+    100054: Righr legCow3
+    100056: Righr legCow3_end
+    100058: Righr legCow3_end_end
+    100060: Right ear
+    100062: Right ear_end
+    100064: Right ear_end_end
+    100066: RightCow
+    100068: TailCow1
+    100070: TailCow2
+    100072: TailCow3
+    100074: TailCow4
+    100076: TailCow5
+    100078: TailCow5_end
+    100080: TailCow5_end_end
+    400000: Armatura
+    400002: BodyCow
+    400004: CowLOD1
+    400006: //RootNode
+    400008: HeadCow
+    400010: Left ear
+    400012: Left ear_end
+    400014: Left ear_end_end
+    400016: Left legCow1
+    400018: Left legCow2
+    400020: Left legCow3
+    400022: Left legCow3_end
+    400024: Left legCow3_end_end
+    400026: LodCow2
+    400028: NeckCow
+    400030: PosteriorLeftlegCow1
+    400032: PosteriorLeftlegCow2
+    400034: PosteriorLeftlegCow3
+    400036: PosteriorLeftlegCow3_end
+    400038: PosteriorLeftlegCow3_end_end
+    400040: PosteriorRighr legCow1
+    400042: PosteriorRighr legCow2
+    400044: PosteriorRighr legCow3
+    400046: PosteriorRighr legCow3_end
+    400048: PosteriorRighr legCow3_end_end
+    400050: Righr legCow1
+    400052: Righr legCow2
+    400054: Righr legCow3
+    400056: Righr legCow3_end
+    400058: Righr legCow3_end_end
+    400060: Right ear
+    400062: Right ear_end
+    400064: Right ear_end_end
+    400066: RightCow
+    400068: TailCow1
+    400070: TailCow2
+    400072: TailCow3
+    400074: TailCow4
+    400076: TailCow5
+    400078: TailCow5_end
+    400080: TailCow5_end_end
+    4300000: LodCow2
+    4300002: CowLOD1
+    7400000: deathCow
+    7400002: hurtCow
+    7400004: idleCow2
+    7400006: idleCow
+    7400008: walk
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: CowLOD1
+    13700002: LodCow2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: deathCow
+      takeName: Armatura|Armatura|Armatura|deathCow|Armatura|deathCow
+      firstFrame: 0
+      lastFrame: 79
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armatura
+        weight: 1
+      - path: Armatura/RightCow
+        weight: 1
+      - path: Armatura/RightCow/BodyCow
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Left legCow1
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Left legCow1/Left legCow2
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Left legCow1/Left legCow2/Left legCow3
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Left legCow1/Left legCow2/Left legCow3/Left
+          legCow3_end
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Left legCow1/Left legCow2/Left legCow3/Left
+          legCow3_end/Left legCow3_end_end
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow/HeadCow
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow/HeadCow/Left ear
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow/HeadCow/Left ear/Left ear_end
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow/HeadCow/Left ear/Left ear_end/Left
+          ear_end_end
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow/HeadCow/Right ear
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow/HeadCow/Right ear/Right ear_end
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow/HeadCow/Right ear/Right ear_end/Right
+          ear_end_end
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Righr legCow1
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Righr legCow1/Righr legCow2
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Righr legCow1/Righr legCow2/Righr legCow3
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Righr legCow1/Righr legCow2/Righr legCow3/Righr
+          legCow3_end
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Righr legCow1/Righr legCow2/Righr legCow3/Righr
+          legCow3_end/Righr legCow3_end_end
+        weight: 1
+      - path: Armatura/RightCow/PosteriorLeftlegCow1
+        weight: 1
+      - path: Armatura/RightCow/PosteriorLeftlegCow1/PosteriorLeftlegCow2
+        weight: 1
+      - path: Armatura/RightCow/PosteriorLeftlegCow1/PosteriorLeftlegCow2/PosteriorLeftlegCow3
+        weight: 1
+      - path: Armatura/RightCow/PosteriorLeftlegCow1/PosteriorLeftlegCow2/PosteriorLeftlegCow3/PosteriorLeftlegCow3_end
+        weight: 1
+      - path: Armatura/RightCow/PosteriorLeftlegCow1/PosteriorLeftlegCow2/PosteriorLeftlegCow3/PosteriorLeftlegCow3_end/PosteriorLeftlegCow3_end_end
+        weight: 1
+      - path: Armatura/RightCow/PosteriorRighr legCow1
+        weight: 1
+      - path: Armatura/RightCow/PosteriorRighr legCow1/PosteriorRighr legCow2
+        weight: 1
+      - path: Armatura/RightCow/PosteriorRighr legCow1/PosteriorRighr legCow2/PosteriorRighr
+          legCow3
+        weight: 1
+      - path: Armatura/RightCow/PosteriorRighr legCow1/PosteriorRighr legCow2/PosteriorRighr
+          legCow3/PosteriorRighr legCow3_end
+        weight: 1
+      - path: Armatura/RightCow/PosteriorRighr legCow1/PosteriorRighr legCow2/PosteriorRighr
+          legCow3/PosteriorRighr legCow3_end/PosteriorRighr legCow3_end_end
+        weight: 1
+      - path: Armatura/RightCow/TailCow1
+        weight: 1
+      - path: Armatura/RightCow/TailCow1/TailCow2
+        weight: 1
+      - path: Armatura/RightCow/TailCow1/TailCow2/TailCow3
+        weight: 1
+      - path: Armatura/RightCow/TailCow1/TailCow2/TailCow3/TailCow4
+        weight: 1
+      - path: Armatura/RightCow/TailCow1/TailCow2/TailCow3/TailCow4/TailCow5
+        weight: 1
+      - path: Armatura/RightCow/TailCow1/TailCow2/TailCow3/TailCow4/TailCow5/TailCow5_end
+        weight: 1
+      - path: Armatura/RightCow/TailCow1/TailCow2/TailCow3/TailCow4/TailCow5/TailCow5_end/TailCow5_end_end
+        weight: 1
+      - path: CowLOD1
+        weight: 1
+      - path: LodCow2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hurtCow
+      takeName: Armatura|Armatura|Armatura|hurtCow|Armatura|hurtCow
+      firstFrame: 0
+      lastFrame: 33
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armatura
+        weight: 1
+      - path: Armatura/RightCow
+        weight: 1
+      - path: Armatura/RightCow/BodyCow
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Left legCow1
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Left legCow1/Left legCow2
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Left legCow1/Left legCow2/Left legCow3
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Left legCow1/Left legCow2/Left legCow3/Left
+          legCow3_end
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Left legCow1/Left legCow2/Left legCow3/Left
+          legCow3_end/Left legCow3_end_end
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow/HeadCow
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow/HeadCow/Left ear
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow/HeadCow/Left ear/Left ear_end
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow/HeadCow/Left ear/Left ear_end/Left
+          ear_end_end
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow/HeadCow/Right ear
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow/HeadCow/Right ear/Right ear_end
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow/HeadCow/Right ear/Right ear_end/Right
+          ear_end_end
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Righr legCow1
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Righr legCow1/Righr legCow2
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Righr legCow1/Righr legCow2/Righr legCow3
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Righr legCow1/Righr legCow2/Righr legCow3/Righr
+          legCow3_end
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Righr legCow1/Righr legCow2/Righr legCow3/Righr
+          legCow3_end/Righr legCow3_end_end
+        weight: 1
+      - path: Armatura/RightCow/PosteriorLeftlegCow1
+        weight: 1
+      - path: Armatura/RightCow/PosteriorLeftlegCow1/PosteriorLeftlegCow2
+        weight: 1
+      - path: Armatura/RightCow/PosteriorLeftlegCow1/PosteriorLeftlegCow2/PosteriorLeftlegCow3
+        weight: 1
+      - path: Armatura/RightCow/PosteriorLeftlegCow1/PosteriorLeftlegCow2/PosteriorLeftlegCow3/PosteriorLeftlegCow3_end
+        weight: 1
+      - path: Armatura/RightCow/PosteriorLeftlegCow1/PosteriorLeftlegCow2/PosteriorLeftlegCow3/PosteriorLeftlegCow3_end/PosteriorLeftlegCow3_end_end
+        weight: 1
+      - path: Armatura/RightCow/PosteriorRighr legCow1
+        weight: 1
+      - path: Armatura/RightCow/PosteriorRighr legCow1/PosteriorRighr legCow2
+        weight: 1
+      - path: Armatura/RightCow/PosteriorRighr legCow1/PosteriorRighr legCow2/PosteriorRighr
+          legCow3
+        weight: 1
+      - path: Armatura/RightCow/PosteriorRighr legCow1/PosteriorRighr legCow2/PosteriorRighr
+          legCow3/PosteriorRighr legCow3_end
+        weight: 1
+      - path: Armatura/RightCow/PosteriorRighr legCow1/PosteriorRighr legCow2/PosteriorRighr
+          legCow3/PosteriorRighr legCow3_end/PosteriorRighr legCow3_end_end
+        weight: 1
+      - path: Armatura/RightCow/TailCow1
+        weight: 1
+      - path: Armatura/RightCow/TailCow1/TailCow2
+        weight: 1
+      - path: Armatura/RightCow/TailCow1/TailCow2/TailCow3
+        weight: 1
+      - path: Armatura/RightCow/TailCow1/TailCow2/TailCow3/TailCow4
+        weight: 1
+      - path: Armatura/RightCow/TailCow1/TailCow2/TailCow3/TailCow4/TailCow5
+        weight: 1
+      - path: Armatura/RightCow/TailCow1/TailCow2/TailCow3/TailCow4/TailCow5/TailCow5_end
+        weight: 1
+      - path: Armatura/RightCow/TailCow1/TailCow2/TailCow3/TailCow4/TailCow5/TailCow5_end/TailCow5_end_end
+        weight: 1
+      - path: CowLOD1
+        weight: 1
+      - path: LodCow2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idleCow2
+      takeName: Armatura|Armatura|Armatura|idleCow2|Armatura|idleCow2
+      firstFrame: 0
+      lastFrame: 220
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armatura
+        weight: 1
+      - path: Armatura/RightCow
+        weight: 1
+      - path: Armatura/RightCow/BodyCow
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Left legCow1
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Left legCow1/Left legCow2
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Left legCow1/Left legCow2/Left legCow3
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Left legCow1/Left legCow2/Left legCow3/Left
+          legCow3_end
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Left legCow1/Left legCow2/Left legCow3/Left
+          legCow3_end/Left legCow3_end_end
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow/HeadCow
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow/HeadCow/Left ear
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow/HeadCow/Left ear/Left ear_end
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow/HeadCow/Left ear/Left ear_end/Left
+          ear_end_end
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow/HeadCow/Right ear
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow/HeadCow/Right ear/Right ear_end
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow/HeadCow/Right ear/Right ear_end/Right
+          ear_end_end
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Righr legCow1
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Righr legCow1/Righr legCow2
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Righr legCow1/Righr legCow2/Righr legCow3
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Righr legCow1/Righr legCow2/Righr legCow3/Righr
+          legCow3_end
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Righr legCow1/Righr legCow2/Righr legCow3/Righr
+          legCow3_end/Righr legCow3_end_end
+        weight: 1
+      - path: Armatura/RightCow/PosteriorLeftlegCow1
+        weight: 1
+      - path: Armatura/RightCow/PosteriorLeftlegCow1/PosteriorLeftlegCow2
+        weight: 1
+      - path: Armatura/RightCow/PosteriorLeftlegCow1/PosteriorLeftlegCow2/PosteriorLeftlegCow3
+        weight: 1
+      - path: Armatura/RightCow/PosteriorLeftlegCow1/PosteriorLeftlegCow2/PosteriorLeftlegCow3/PosteriorLeftlegCow3_end
+        weight: 1
+      - path: Armatura/RightCow/PosteriorLeftlegCow1/PosteriorLeftlegCow2/PosteriorLeftlegCow3/PosteriorLeftlegCow3_end/PosteriorLeftlegCow3_end_end
+        weight: 1
+      - path: Armatura/RightCow/PosteriorRighr legCow1
+        weight: 1
+      - path: Armatura/RightCow/PosteriorRighr legCow1/PosteriorRighr legCow2
+        weight: 1
+      - path: Armatura/RightCow/PosteriorRighr legCow1/PosteriorRighr legCow2/PosteriorRighr
+          legCow3
+        weight: 1
+      - path: Armatura/RightCow/PosteriorRighr legCow1/PosteriorRighr legCow2/PosteriorRighr
+          legCow3/PosteriorRighr legCow3_end
+        weight: 1
+      - path: Armatura/RightCow/PosteriorRighr legCow1/PosteriorRighr legCow2/PosteriorRighr
+          legCow3/PosteriorRighr legCow3_end/PosteriorRighr legCow3_end_end
+        weight: 1
+      - path: Armatura/RightCow/TailCow1
+        weight: 1
+      - path: Armatura/RightCow/TailCow1/TailCow2
+        weight: 1
+      - path: Armatura/RightCow/TailCow1/TailCow2/TailCow3
+        weight: 1
+      - path: Armatura/RightCow/TailCow1/TailCow2/TailCow3/TailCow4
+        weight: 1
+      - path: Armatura/RightCow/TailCow1/TailCow2/TailCow3/TailCow4/TailCow5
+        weight: 1
+      - path: Armatura/RightCow/TailCow1/TailCow2/TailCow3/TailCow4/TailCow5/TailCow5_end
+        weight: 1
+      - path: Armatura/RightCow/TailCow1/TailCow2/TailCow3/TailCow4/TailCow5/TailCow5_end/TailCow5_end_end
+        weight: 1
+      - path: CowLOD1
+        weight: 1
+      - path: LodCow2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idleCow
+      takeName: Armatura|Armatura|Armatura|idleCow|Armatura|idleCow
+      firstFrame: 0
+      lastFrame: 248
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armatura
+        weight: 1
+      - path: Armatura/RightCow
+        weight: 1
+      - path: Armatura/RightCow/BodyCow
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Left legCow1
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Left legCow1/Left legCow2
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Left legCow1/Left legCow2/Left legCow3
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Left legCow1/Left legCow2/Left legCow3/Left
+          legCow3_end
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Left legCow1/Left legCow2/Left legCow3/Left
+          legCow3_end/Left legCow3_end_end
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow/HeadCow
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow/HeadCow/Left ear
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow/HeadCow/Left ear/Left ear_end
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow/HeadCow/Left ear/Left ear_end/Left
+          ear_end_end
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow/HeadCow/Right ear
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow/HeadCow/Right ear/Right ear_end
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow/HeadCow/Right ear/Right ear_end/Right
+          ear_end_end
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Righr legCow1
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Righr legCow1/Righr legCow2
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Righr legCow1/Righr legCow2/Righr legCow3
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Righr legCow1/Righr legCow2/Righr legCow3/Righr
+          legCow3_end
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Righr legCow1/Righr legCow2/Righr legCow3/Righr
+          legCow3_end/Righr legCow3_end_end
+        weight: 1
+      - path: Armatura/RightCow/PosteriorLeftlegCow1
+        weight: 1
+      - path: Armatura/RightCow/PosteriorLeftlegCow1/PosteriorLeftlegCow2
+        weight: 1
+      - path: Armatura/RightCow/PosteriorLeftlegCow1/PosteriorLeftlegCow2/PosteriorLeftlegCow3
+        weight: 1
+      - path: Armatura/RightCow/PosteriorLeftlegCow1/PosteriorLeftlegCow2/PosteriorLeftlegCow3/PosteriorLeftlegCow3_end
+        weight: 1
+      - path: Armatura/RightCow/PosteriorLeftlegCow1/PosteriorLeftlegCow2/PosteriorLeftlegCow3/PosteriorLeftlegCow3_end/PosteriorLeftlegCow3_end_end
+        weight: 1
+      - path: Armatura/RightCow/PosteriorRighr legCow1
+        weight: 1
+      - path: Armatura/RightCow/PosteriorRighr legCow1/PosteriorRighr legCow2
+        weight: 1
+      - path: Armatura/RightCow/PosteriorRighr legCow1/PosteriorRighr legCow2/PosteriorRighr
+          legCow3
+        weight: 1
+      - path: Armatura/RightCow/PosteriorRighr legCow1/PosteriorRighr legCow2/PosteriorRighr
+          legCow3/PosteriorRighr legCow3_end
+        weight: 1
+      - path: Armatura/RightCow/PosteriorRighr legCow1/PosteriorRighr legCow2/PosteriorRighr
+          legCow3/PosteriorRighr legCow3_end/PosteriorRighr legCow3_end_end
+        weight: 1
+      - path: Armatura/RightCow/TailCow1
+        weight: 1
+      - path: Armatura/RightCow/TailCow1/TailCow2
+        weight: 1
+      - path: Armatura/RightCow/TailCow1/TailCow2/TailCow3
+        weight: 1
+      - path: Armatura/RightCow/TailCow1/TailCow2/TailCow3/TailCow4
+        weight: 1
+      - path: Armatura/RightCow/TailCow1/TailCow2/TailCow3/TailCow4/TailCow5
+        weight: 1
+      - path: Armatura/RightCow/TailCow1/TailCow2/TailCow3/TailCow4/TailCow5/TailCow5_end
+        weight: 1
+      - path: Armatura/RightCow/TailCow1/TailCow2/TailCow3/TailCow4/TailCow5/TailCow5_end/TailCow5_end_end
+        weight: 1
+      - path: CowLOD1
+        weight: 1
+      - path: LodCow2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: walk
+      takeName: Armatura|Armatura|Armatura|walk|Armatura|walk
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armatura
+        weight: 1
+      - path: Armatura/RightCow
+        weight: 1
+      - path: Armatura/RightCow/BodyCow
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Left legCow1
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Left legCow1/Left legCow2
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Left legCow1/Left legCow2/Left legCow3
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Left legCow1/Left legCow2/Left legCow3/Left
+          legCow3_end
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Left legCow1/Left legCow2/Left legCow3/Left
+          legCow3_end/Left legCow3_end_end
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow/HeadCow
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow/HeadCow/Left ear
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow/HeadCow/Left ear/Left ear_end
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow/HeadCow/Left ear/Left ear_end/Left
+          ear_end_end
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow/HeadCow/Right ear
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow/HeadCow/Right ear/Right ear_end
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/NeckCow/HeadCow/Right ear/Right ear_end/Right
+          ear_end_end
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Righr legCow1
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Righr legCow1/Righr legCow2
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Righr legCow1/Righr legCow2/Righr legCow3
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Righr legCow1/Righr legCow2/Righr legCow3/Righr
+          legCow3_end
+        weight: 1
+      - path: Armatura/RightCow/BodyCow/Righr legCow1/Righr legCow2/Righr legCow3/Righr
+          legCow3_end/Righr legCow3_end_end
+        weight: 1
+      - path: Armatura/RightCow/PosteriorLeftlegCow1
+        weight: 1
+      - path: Armatura/RightCow/PosteriorLeftlegCow1/PosteriorLeftlegCow2
+        weight: 1
+      - path: Armatura/RightCow/PosteriorLeftlegCow1/PosteriorLeftlegCow2/PosteriorLeftlegCow3
+        weight: 1
+      - path: Armatura/RightCow/PosteriorLeftlegCow1/PosteriorLeftlegCow2/PosteriorLeftlegCow3/PosteriorLeftlegCow3_end
+        weight: 1
+      - path: Armatura/RightCow/PosteriorLeftlegCow1/PosteriorLeftlegCow2/PosteriorLeftlegCow3/PosteriorLeftlegCow3_end/PosteriorLeftlegCow3_end_end
+        weight: 1
+      - path: Armatura/RightCow/PosteriorRighr legCow1
+        weight: 1
+      - path: Armatura/RightCow/PosteriorRighr legCow1/PosteriorRighr legCow2
+        weight: 1
+      - path: Armatura/RightCow/PosteriorRighr legCow1/PosteriorRighr legCow2/PosteriorRighr
+          legCow3
+        weight: 1
+      - path: Armatura/RightCow/PosteriorRighr legCow1/PosteriorRighr legCow2/PosteriorRighr
+          legCow3/PosteriorRighr legCow3_end
+        weight: 1
+      - path: Armatura/RightCow/PosteriorRighr legCow1/PosteriorRighr legCow2/PosteriorRighr
+          legCow3/PosteriorRighr legCow3_end/PosteriorRighr legCow3_end_end
+        weight: 1
+      - path: Armatura/RightCow/TailCow1
+        weight: 1
+      - path: Armatura/RightCow/TailCow1/TailCow2
+        weight: 1
+      - path: Armatura/RightCow/TailCow1/TailCow2/TailCow3
+        weight: 1
+      - path: Armatura/RightCow/TailCow1/TailCow2/TailCow3/TailCow4
+        weight: 1
+      - path: Armatura/RightCow/TailCow1/TailCow2/TailCow3/TailCow4/TailCow5
+        weight: 1
+      - path: Armatura/RightCow/TailCow1/TailCow2/TailCow3/TailCow4/TailCow5/TailCow5_end
+        weight: 1
+      - path: Armatura/RightCow/TailCow1/TailCow2/TailCow3/TailCow4/TailCow5/TailCow5_end/TailCow5_end_end
+        weight: 1
+      - path: CowLOD1
+        weight: 1
+      - path: LodCow2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

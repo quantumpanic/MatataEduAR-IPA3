@@ -1,0 +1,779 @@
+fileFormatVersion: 2
+guid: cc6ea8ac4783b3f4487f5789f93c9364
+timeCreated: 1461544692
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ArmaturaHorse
+    100002: BodyHorse
+    100004: HeadHorse
+    100006: //RootNode
+    100008: Horse
+    100010: Left earHorse
+    100012: Left earHorse_end
+    100014: Left legHorse1
+    100016: Left legHorse2
+    100018: Left legHorse3
+    100020: Left legHorse3_end
+    100022: LODHorse1
+    100024: LODHorse2
+    100026: NeckHorse
+    100028: PosteriorLeftlegHorse1
+    100030: PosteriorLeftlegHorse2
+    100032: PosteriorLeftlegHorse3
+    100034: PosteriorLeftlegHorse3_end
+    100036: PosteriorRighr legHorse1
+    100038: PosteriorRighr legHorse2
+    100040: PosteriorRighr legHorse3
+    100042: PosteriorRighr legHorse3_end
+    100044: Righr legHorse1
+    100046: Righr legHorse2
+    100048: Righr legHorse3
+    100050: Righr legHorse3_end
+    100052: Right earHorse
+    100054: Right earHorse_end
+    100056: RightHorse
+    100058: TailHorse1
+    100060: TailHorse2
+    100062: TailHorse3
+    100064: TailHorse4
+    100066: TailHorse5
+    100068: TailHorse5_end
+    400000: ArmaturaHorse
+    400002: BodyHorse
+    400004: HeadHorse
+    400006: Horse
+    400008: //RootNode
+    400010: Left earHorse
+    400012: Left earHorse_end
+    400014: Left legHorse1
+    400016: Left legHorse2
+    400018: Left legHorse3
+    400020: Left legHorse3_end
+    400022: LODHorse1
+    400024: LODHorse2
+    400026: NeckHorse
+    400028: PosteriorLeftlegHorse1
+    400030: PosteriorLeftlegHorse2
+    400032: PosteriorLeftlegHorse3
+    400034: PosteriorLeftlegHorse3_end
+    400036: PosteriorRighr legHorse1
+    400038: PosteriorRighr legHorse2
+    400040: PosteriorRighr legHorse3
+    400042: PosteriorRighr legHorse3_end
+    400044: Righr legHorse1
+    400046: Righr legHorse2
+    400048: Righr legHorse3
+    400050: Righr legHorse3_end
+    400052: Right earHorse
+    400054: Right earHorse_end
+    400056: RightHorse
+    400058: TailHorse1
+    400060: TailHorse2
+    400062: TailHorse3
+    400064: TailHorse4
+    400066: TailHorse5
+    400068: TailHorse5_end
+    4300000: LODHorse2
+    4300002: LODHorse1
+    4300004: Horse
+    7400000: deathHorse
+    7400002: hurtHorse
+    7400004: idleHorse
+    7400006: idleHorse2
+    7400008: runHorse
+    7400010: walkHorse
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Horse
+    13700002: LODHorse1
+    13700004: LODHorse2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: deathHorse
+      takeName: ArmaturaHorse|deathHorse
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ArmaturaHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Left legHorse1
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Left legHorse1/Left legHorse2
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Left legHorse1/Left legHorse2/Left
+          legHorse3
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Left legHorse1/Left legHorse2/Left
+          legHorse3/Left legHorse3_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse/HeadHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse/HeadHorse/Left earHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse/HeadHorse/Left earHorse/Left
+          earHorse_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse/HeadHorse/Right earHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse/HeadHorse/Right earHorse/Right
+          earHorse_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Righr legHorse1
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Righr legHorse1/Righr legHorse2
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Righr legHorse1/Righr legHorse2/Righr
+          legHorse3
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Righr legHorse1/Righr legHorse2/Righr
+          legHorse3/Righr legHorse3_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorLeftlegHorse1
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorLeftlegHorse1/PosteriorLeftlegHorse2
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorLeftlegHorse1/PosteriorLeftlegHorse2/PosteriorLeftlegHorse3
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorLeftlegHorse1/PosteriorLeftlegHorse2/PosteriorLeftlegHorse3/PosteriorLeftlegHorse3_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorRighr legHorse1
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorRighr legHorse1/PosteriorRighr legHorse2
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorRighr legHorse1/PosteriorRighr legHorse2/PosteriorRighr
+          legHorse3
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorRighr legHorse1/PosteriorRighr legHorse2/PosteriorRighr
+          legHorse3/PosteriorRighr legHorse3_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1/TailHorse2
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1/TailHorse2/TailHorse3
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1/TailHorse2/TailHorse3/TailHorse4
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1/TailHorse2/TailHorse3/TailHorse4/TailHorse5
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1/TailHorse2/TailHorse3/TailHorse4/TailHorse5/TailHorse5_end
+        weight: 1
+      - path: Horse
+        weight: 1
+      - path: LODHorse1
+        weight: 1
+      - path: LODHorse2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hurtHorse
+      takeName: ArmaturaHorse|hurtHorse
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ArmaturaHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Left legHorse1
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Left legHorse1/Left legHorse2
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Left legHorse1/Left legHorse2/Left
+          legHorse3
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Left legHorse1/Left legHorse2/Left
+          legHorse3/Left legHorse3_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse/HeadHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse/HeadHorse/Left earHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse/HeadHorse/Left earHorse/Left
+          earHorse_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse/HeadHorse/Right earHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse/HeadHorse/Right earHorse/Right
+          earHorse_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Righr legHorse1
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Righr legHorse1/Righr legHorse2
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Righr legHorse1/Righr legHorse2/Righr
+          legHorse3
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Righr legHorse1/Righr legHorse2/Righr
+          legHorse3/Righr legHorse3_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorLeftlegHorse1
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorLeftlegHorse1/PosteriorLeftlegHorse2
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorLeftlegHorse1/PosteriorLeftlegHorse2/PosteriorLeftlegHorse3
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorLeftlegHorse1/PosteriorLeftlegHorse2/PosteriorLeftlegHorse3/PosteriorLeftlegHorse3_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorRighr legHorse1
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorRighr legHorse1/PosteriorRighr legHorse2
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorRighr legHorse1/PosteriorRighr legHorse2/PosteriorRighr
+          legHorse3
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorRighr legHorse1/PosteriorRighr legHorse2/PosteriorRighr
+          legHorse3/PosteriorRighr legHorse3_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1/TailHorse2
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1/TailHorse2/TailHorse3
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1/TailHorse2/TailHorse3/TailHorse4
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1/TailHorse2/TailHorse3/TailHorse4/TailHorse5
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1/TailHorse2/TailHorse3/TailHorse4/TailHorse5/TailHorse5_end
+        weight: 1
+      - path: Horse
+        weight: 1
+      - path: LODHorse1
+        weight: 1
+      - path: LODHorse2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idleHorse
+      takeName: ArmaturaHorse|idleHorse
+      firstFrame: 0
+      lastFrame: 248
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ArmaturaHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Left legHorse1
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Left legHorse1/Left legHorse2
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Left legHorse1/Left legHorse2/Left
+          legHorse3
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Left legHorse1/Left legHorse2/Left
+          legHorse3/Left legHorse3_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse/HeadHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse/HeadHorse/Left earHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse/HeadHorse/Left earHorse/Left
+          earHorse_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse/HeadHorse/Right earHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse/HeadHorse/Right earHorse/Right
+          earHorse_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Righr legHorse1
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Righr legHorse1/Righr legHorse2
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Righr legHorse1/Righr legHorse2/Righr
+          legHorse3
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Righr legHorse1/Righr legHorse2/Righr
+          legHorse3/Righr legHorse3_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorLeftlegHorse1
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorLeftlegHorse1/PosteriorLeftlegHorse2
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorLeftlegHorse1/PosteriorLeftlegHorse2/PosteriorLeftlegHorse3
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorLeftlegHorse1/PosteriorLeftlegHorse2/PosteriorLeftlegHorse3/PosteriorLeftlegHorse3_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorRighr legHorse1
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorRighr legHorse1/PosteriorRighr legHorse2
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorRighr legHorse1/PosteriorRighr legHorse2/PosteriorRighr
+          legHorse3
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorRighr legHorse1/PosteriorRighr legHorse2/PosteriorRighr
+          legHorse3/PosteriorRighr legHorse3_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1/TailHorse2
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1/TailHorse2/TailHorse3
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1/TailHorse2/TailHorse3/TailHorse4
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1/TailHorse2/TailHorse3/TailHorse4/TailHorse5
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1/TailHorse2/TailHorse3/TailHorse4/TailHorse5/TailHorse5_end
+        weight: 1
+      - path: Horse
+        weight: 1
+      - path: LODHorse1
+        weight: 1
+      - path: LODHorse2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idleHorse2
+      takeName: ArmaturaHorse|idleHorse2
+      firstFrame: 0
+      lastFrame: 248
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ArmaturaHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Left legHorse1
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Left legHorse1/Left legHorse2
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Left legHorse1/Left legHorse2/Left
+          legHorse3
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Left legHorse1/Left legHorse2/Left
+          legHorse3/Left legHorse3_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse/HeadHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse/HeadHorse/Left earHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse/HeadHorse/Left earHorse/Left
+          earHorse_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse/HeadHorse/Right earHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse/HeadHorse/Right earHorse/Right
+          earHorse_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Righr legHorse1
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Righr legHorse1/Righr legHorse2
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Righr legHorse1/Righr legHorse2/Righr
+          legHorse3
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Righr legHorse1/Righr legHorse2/Righr
+          legHorse3/Righr legHorse3_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorLeftlegHorse1
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorLeftlegHorse1/PosteriorLeftlegHorse2
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorLeftlegHorse1/PosteriorLeftlegHorse2/PosteriorLeftlegHorse3
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorLeftlegHorse1/PosteriorLeftlegHorse2/PosteriorLeftlegHorse3/PosteriorLeftlegHorse3_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorRighr legHorse1
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorRighr legHorse1/PosteriorRighr legHorse2
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorRighr legHorse1/PosteriorRighr legHorse2/PosteriorRighr
+          legHorse3
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorRighr legHorse1/PosteriorRighr legHorse2/PosteriorRighr
+          legHorse3/PosteriorRighr legHorse3_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1/TailHorse2
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1/TailHorse2/TailHorse3
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1/TailHorse2/TailHorse3/TailHorse4
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1/TailHorse2/TailHorse3/TailHorse4/TailHorse5
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1/TailHorse2/TailHorse3/TailHorse4/TailHorse5/TailHorse5_end
+        weight: 1
+      - path: Horse
+        weight: 1
+      - path: LODHorse1
+        weight: 1
+      - path: LODHorse2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: runHorse
+      takeName: ArmaturaHorse|runHorse
+      firstFrame: 0
+      lastFrame: 12
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ArmaturaHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Left legHorse1
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Left legHorse1/Left legHorse2
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Left legHorse1/Left legHorse2/Left
+          legHorse3
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Left legHorse1/Left legHorse2/Left
+          legHorse3/Left legHorse3_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse/HeadHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse/HeadHorse/Left earHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse/HeadHorse/Left earHorse/Left
+          earHorse_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse/HeadHorse/Right earHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse/HeadHorse/Right earHorse/Right
+          earHorse_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Righr legHorse1
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Righr legHorse1/Righr legHorse2
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Righr legHorse1/Righr legHorse2/Righr
+          legHorse3
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Righr legHorse1/Righr legHorse2/Righr
+          legHorse3/Righr legHorse3_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorLeftlegHorse1
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorLeftlegHorse1/PosteriorLeftlegHorse2
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorLeftlegHorse1/PosteriorLeftlegHorse2/PosteriorLeftlegHorse3
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorLeftlegHorse1/PosteriorLeftlegHorse2/PosteriorLeftlegHorse3/PosteriorLeftlegHorse3_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorRighr legHorse1
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorRighr legHorse1/PosteriorRighr legHorse2
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorRighr legHorse1/PosteriorRighr legHorse2/PosteriorRighr
+          legHorse3
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorRighr legHorse1/PosteriorRighr legHorse2/PosteriorRighr
+          legHorse3/PosteriorRighr legHorse3_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1/TailHorse2
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1/TailHorse2/TailHorse3
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1/TailHorse2/TailHorse3/TailHorse4
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1/TailHorse2/TailHorse3/TailHorse4/TailHorse5
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1/TailHorse2/TailHorse3/TailHorse4/TailHorse5/TailHorse5_end
+        weight: 1
+      - path: Horse
+        weight: 1
+      - path: LODHorse1
+        weight: 1
+      - path: LODHorse2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: walkHorse
+      takeName: ArmaturaHorse|walkHorse
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ArmaturaHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Left legHorse1
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Left legHorse1/Left legHorse2
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Left legHorse1/Left legHorse2/Left
+          legHorse3
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Left legHorse1/Left legHorse2/Left
+          legHorse3/Left legHorse3_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse/HeadHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse/HeadHorse/Left earHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse/HeadHorse/Left earHorse/Left
+          earHorse_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse/HeadHorse/Right earHorse
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/NeckHorse/HeadHorse/Right earHorse/Right
+          earHorse_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Righr legHorse1
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Righr legHorse1/Righr legHorse2
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Righr legHorse1/Righr legHorse2/Righr
+          legHorse3
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/BodyHorse/Righr legHorse1/Righr legHorse2/Righr
+          legHorse3/Righr legHorse3_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorLeftlegHorse1
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorLeftlegHorse1/PosteriorLeftlegHorse2
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorLeftlegHorse1/PosteriorLeftlegHorse2/PosteriorLeftlegHorse3
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorLeftlegHorse1/PosteriorLeftlegHorse2/PosteriorLeftlegHorse3/PosteriorLeftlegHorse3_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorRighr legHorse1
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorRighr legHorse1/PosteriorRighr legHorse2
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorRighr legHorse1/PosteriorRighr legHorse2/PosteriorRighr
+          legHorse3
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/PosteriorRighr legHorse1/PosteriorRighr legHorse2/PosteriorRighr
+          legHorse3/PosteriorRighr legHorse3_end
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1/TailHorse2
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1/TailHorse2/TailHorse3
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1/TailHorse2/TailHorse3/TailHorse4
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1/TailHorse2/TailHorse3/TailHorse4/TailHorse5
+        weight: 1
+      - path: ArmaturaHorse/RightHorse/TailHorse1/TailHorse2/TailHorse3/TailHorse4/TailHorse5/TailHorse5_end
+        weight: 1
+      - path: Horse
+        weight: 1
+      - path: LODHorse1
+        weight: 1
+      - path: LODHorse2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

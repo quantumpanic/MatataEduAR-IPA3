@@ -1,0 +1,8 @@
+Badan ayam ditutupi oleh apa?,Bulu,Sisik,Selaput,Duri,1
+Berapa kaki yang dimiliki sapi?,1,2,3,4,4
+Apa makanan karnivora?,Daging,Tumbuhan,Beling,Batu,1
+Apa makanan herbivora?,Daging,Tumbuhan,Beling,Batu,2
+Hewan yang bisa makan daging dan tumbuhan dinamakan apa?,Herbivora,Karnivora,Omnivora,Kanibal,3
+Manakah hewan di bawah ini yang tempat hidupnya berbeda?,Ular,Kalajengking,Cumi-cumi,Kanguru,3
+Penggolongan makhluk hidup meliputi hal-hal di bawah ini kecuali:,Tempat hidup,Banyaknya mata,Penutup tubuh,Alat pernapasan,2
+Hewan manakah di bawah ini yang memiliki ciri yang sama?,Kucing,Burung hantu,Ayam,Elang,1

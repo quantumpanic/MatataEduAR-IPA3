@@ -1,0 +1,545 @@
+fileFormatVersion: 2
+guid: 61bdc3c6ac50d1a4ab2acbb79a80146c
+timeCreated: 1461545956
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ArmaturaSheep
+    100002: Body
+    100004: Head
+    100006: Left leg
+    100008: Left leg2
+    100010: Left leg3
+    100012: Left leg3_end
+    100014: LeftEar
+    100016: LeftEar_end
+    100018: LodSheep1
+    100020: LodSheep2
+    100022: Neck
+    100024: PosteriorLeftleg1
+    100026: PosteriorLeftleg2
+    100028: PosteriorLeftleg3
+    100030: PosteriorLeftleg3_end
+    100032: PosteriorRighr leg1
+    100034: PosteriorRighr leg2
+    100036: PosteriorRighr leg3
+    100038: PosteriorRighr leg3_end
+    100040: Righr leg
+    100042: Righr leg.2
+    100044: Righr leg3
+    100046: Righr leg3_end
+    100048: Right
+    100050: RightEar
+    100052: RightEar_end
+    100054: Sheep
+    100056: //RootNode
+    100058: Tail1
+    100060: Tail2
+    100062: Tail3
+    100064: Tail4
+    100066: Tail5
+    100068: Tail5_end
+    400000: ArmaturaSheep
+    400002: Body
+    400004: Head
+    400006: Left leg
+    400008: Left leg2
+    400010: Left leg3
+    400012: Left leg3_end
+    400014: LeftEar
+    400016: LeftEar_end
+    400018: LodSheep1
+    400020: LodSheep2
+    400022: Neck
+    400024: PosteriorLeftleg1
+    400026: PosteriorLeftleg2
+    400028: PosteriorLeftleg3
+    400030: PosteriorLeftleg3_end
+    400032: PosteriorRighr leg1
+    400034: PosteriorRighr leg2
+    400036: PosteriorRighr leg3
+    400038: PosteriorRighr leg3_end
+    400040: Righr leg
+    400042: Righr leg.2
+    400044: Righr leg3
+    400046: Righr leg3_end
+    400048: Right
+    400050: RightEar
+    400052: RightEar_end
+    400054: Sheep
+    400056: //RootNode
+    400058: Tail1
+    400060: Tail2
+    400062: Tail3
+    400064: Tail4
+    400066: Tail5
+    400068: Tail5_end
+    4300000: LodSheep2
+    4300002: LodSheep1
+    4300004: Sheep
+    7400000: deathSheep
+    7400002: eatSheep
+    7400004: idleSheep
+    7400006: walkSheep
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: LodSheep1
+    13700002: LodSheep2
+    13700004: Sheep
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: deathSheep
+      takeName: ArmaturaSheep|deathSheep
+      firstFrame: 0
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ArmaturaSheep
+        weight: 1
+      - path: ArmaturaSheep/Right
+        weight: 1
+      - path: ArmaturaSheep/Right/Body
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Left leg
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Left leg/Left leg2
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Left leg/Left leg2/Left leg3
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Left leg/Left leg2/Left leg3/Left leg3_end
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Neck
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Neck/Head
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Neck/Head/LeftEar
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Neck/Head/LeftEar/LeftEar_end
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Neck/Head/RightEar
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Neck/Head/RightEar/RightEar_end
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Righr leg
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Righr leg/Righr leg.2
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Righr leg/Righr leg.2/Righr leg3
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Righr leg/Righr leg.2/Righr leg3/Righr leg3_end
+        weight: 1
+      - path: ArmaturaSheep/Right/PosteriorLeftleg1
+        weight: 1
+      - path: ArmaturaSheep/Right/PosteriorLeftleg1/PosteriorLeftleg2
+        weight: 1
+      - path: ArmaturaSheep/Right/PosteriorLeftleg1/PosteriorLeftleg2/PosteriorLeftleg3
+        weight: 1
+      - path: ArmaturaSheep/Right/PosteriorLeftleg1/PosteriorLeftleg2/PosteriorLeftleg3/PosteriorLeftleg3_end
+        weight: 1
+      - path: ArmaturaSheep/Right/PosteriorRighr leg1
+        weight: 1
+      - path: ArmaturaSheep/Right/PosteriorRighr leg1/PosteriorRighr leg2
+        weight: 1
+      - path: ArmaturaSheep/Right/PosteriorRighr leg1/PosteriorRighr leg2/PosteriorRighr
+          leg3
+        weight: 1
+      - path: ArmaturaSheep/Right/PosteriorRighr leg1/PosteriorRighr leg2/PosteriorRighr
+          leg3/PosteriorRighr leg3_end
+        weight: 1
+      - path: ArmaturaSheep/Right/Tail1
+        weight: 1
+      - path: ArmaturaSheep/Right/Tail1/Tail2
+        weight: 1
+      - path: ArmaturaSheep/Right/Tail1/Tail2/Tail3
+        weight: 1
+      - path: ArmaturaSheep/Right/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: ArmaturaSheep/Right/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: ArmaturaSheep/Right/Tail1/Tail2/Tail3/Tail4/Tail5/Tail5_end
+        weight: 1
+      - path: LodSheep1
+        weight: 1
+      - path: LodSheep2
+        weight: 1
+      - path: Sheep
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: eatSheep
+      takeName: ArmaturaSheep|eatSheep
+      firstFrame: 0
+      lastFrame: 249
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ArmaturaSheep
+        weight: 1
+      - path: ArmaturaSheep/Right
+        weight: 1
+      - path: ArmaturaSheep/Right/Body
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Left leg
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Left leg/Left leg2
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Left leg/Left leg2/Left leg3
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Left leg/Left leg2/Left leg3/Left leg3_end
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Neck
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Neck/Head
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Neck/Head/LeftEar
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Neck/Head/LeftEar/LeftEar_end
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Neck/Head/RightEar
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Neck/Head/RightEar/RightEar_end
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Righr leg
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Righr leg/Righr leg.2
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Righr leg/Righr leg.2/Righr leg3
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Righr leg/Righr leg.2/Righr leg3/Righr leg3_end
+        weight: 1
+      - path: ArmaturaSheep/Right/PosteriorLeftleg1
+        weight: 1
+      - path: ArmaturaSheep/Right/PosteriorLeftleg1/PosteriorLeftleg2
+        weight: 1
+      - path: ArmaturaSheep/Right/PosteriorLeftleg1/PosteriorLeftleg2/PosteriorLeftleg3
+        weight: 1
+      - path: ArmaturaSheep/Right/PosteriorLeftleg1/PosteriorLeftleg2/PosteriorLeftleg3/PosteriorLeftleg3_end
+        weight: 1
+      - path: ArmaturaSheep/Right/PosteriorRighr leg1
+        weight: 1
+      - path: ArmaturaSheep/Right/PosteriorRighr leg1/PosteriorRighr leg2
+        weight: 1
+      - path: ArmaturaSheep/Right/PosteriorRighr leg1/PosteriorRighr leg2/PosteriorRighr
+          leg3
+        weight: 1
+      - path: ArmaturaSheep/Right/PosteriorRighr leg1/PosteriorRighr leg2/PosteriorRighr
+          leg3/PosteriorRighr leg3_end
+        weight: 1
+      - path: ArmaturaSheep/Right/Tail1
+        weight: 1
+      - path: ArmaturaSheep/Right/Tail1/Tail2
+        weight: 1
+      - path: ArmaturaSheep/Right/Tail1/Tail2/Tail3
+        weight: 1
+      - path: ArmaturaSheep/Right/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: ArmaturaSheep/Right/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: ArmaturaSheep/Right/Tail1/Tail2/Tail3/Tail4/Tail5/Tail5_end
+        weight: 1
+      - path: LodSheep1
+        weight: 1
+      - path: LodSheep2
+        weight: 1
+      - path: Sheep
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idleSheep
+      takeName: ArmaturaSheep|idleSheep
+      firstFrame: 0
+      lastFrame: 248
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ArmaturaSheep
+        weight: 1
+      - path: ArmaturaSheep/Right
+        weight: 1
+      - path: ArmaturaSheep/Right/Body
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Left leg
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Left leg/Left leg2
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Left leg/Left leg2/Left leg3
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Left leg/Left leg2/Left leg3/Left leg3_end
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Neck
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Neck/Head
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Neck/Head/LeftEar
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Neck/Head/LeftEar/LeftEar_end
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Neck/Head/RightEar
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Neck/Head/RightEar/RightEar_end
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Righr leg
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Righr leg/Righr leg.2
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Righr leg/Righr leg.2/Righr leg3
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Righr leg/Righr leg.2/Righr leg3/Righr leg3_end
+        weight: 1
+      - path: ArmaturaSheep/Right/PosteriorLeftleg1
+        weight: 1
+      - path: ArmaturaSheep/Right/PosteriorLeftleg1/PosteriorLeftleg2
+        weight: 1
+      - path: ArmaturaSheep/Right/PosteriorLeftleg1/PosteriorLeftleg2/PosteriorLeftleg3
+        weight: 1
+      - path: ArmaturaSheep/Right/PosteriorLeftleg1/PosteriorLeftleg2/PosteriorLeftleg3/PosteriorLeftleg3_end
+        weight: 1
+      - path: ArmaturaSheep/Right/PosteriorRighr leg1
+        weight: 1
+      - path: ArmaturaSheep/Right/PosteriorRighr leg1/PosteriorRighr leg2
+        weight: 1
+      - path: ArmaturaSheep/Right/PosteriorRighr leg1/PosteriorRighr leg2/PosteriorRighr
+          leg3
+        weight: 1
+      - path: ArmaturaSheep/Right/PosteriorRighr leg1/PosteriorRighr leg2/PosteriorRighr
+          leg3/PosteriorRighr leg3_end
+        weight: 1
+      - path: ArmaturaSheep/Right/Tail1
+        weight: 1
+      - path: ArmaturaSheep/Right/Tail1/Tail2
+        weight: 1
+      - path: ArmaturaSheep/Right/Tail1/Tail2/Tail3
+        weight: 1
+      - path: ArmaturaSheep/Right/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: ArmaturaSheep/Right/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: ArmaturaSheep/Right/Tail1/Tail2/Tail3/Tail4/Tail5/Tail5_end
+        weight: 1
+      - path: LodSheep1
+        weight: 1
+      - path: LodSheep2
+        weight: 1
+      - path: Sheep
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: walkSheep
+      takeName: ArmaturaSheep|walkSheep
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ArmaturaSheep
+        weight: 1
+      - path: ArmaturaSheep/Right
+        weight: 1
+      - path: ArmaturaSheep/Right/Body
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Left leg
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Left leg/Left leg2
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Left leg/Left leg2/Left leg3
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Left leg/Left leg2/Left leg3/Left leg3_end
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Neck
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Neck/Head
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Neck/Head/LeftEar
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Neck/Head/LeftEar/LeftEar_end
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Neck/Head/RightEar
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Neck/Head/RightEar/RightEar_end
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Righr leg
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Righr leg/Righr leg.2
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Righr leg/Righr leg.2/Righr leg3
+        weight: 1
+      - path: ArmaturaSheep/Right/Body/Righr leg/Righr leg.2/Righr leg3/Righr leg3_end
+        weight: 1
+      - path: ArmaturaSheep/Right/PosteriorLeftleg1
+        weight: 1
+      - path: ArmaturaSheep/Right/PosteriorLeftleg1/PosteriorLeftleg2
+        weight: 1
+      - path: ArmaturaSheep/Right/PosteriorLeftleg1/PosteriorLeftleg2/PosteriorLeftleg3
+        weight: 1
+      - path: ArmaturaSheep/Right/PosteriorLeftleg1/PosteriorLeftleg2/PosteriorLeftleg3/PosteriorLeftleg3_end
+        weight: 1
+      - path: ArmaturaSheep/Right/PosteriorRighr leg1
+        weight: 1
+      - path: ArmaturaSheep/Right/PosteriorRighr leg1/PosteriorRighr leg2
+        weight: 1
+      - path: ArmaturaSheep/Right/PosteriorRighr leg1/PosteriorRighr leg2/PosteriorRighr
+          leg3
+        weight: 1
+      - path: ArmaturaSheep/Right/PosteriorRighr leg1/PosteriorRighr leg2/PosteriorRighr
+          leg3/PosteriorRighr leg3_end
+        weight: 1
+      - path: ArmaturaSheep/Right/Tail1
+        weight: 1
+      - path: ArmaturaSheep/Right/Tail1/Tail2
+        weight: 1
+      - path: ArmaturaSheep/Right/Tail1/Tail2/Tail3
+        weight: 1
+      - path: ArmaturaSheep/Right/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: ArmaturaSheep/Right/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: ArmaturaSheep/Right/Tail1/Tail2/Tail3/Tail4/Tail5/Tail5_end
+        weight: 1
+      - path: LodSheep1
+        weight: 1
+      - path: LodSheep2
+        weight: 1
+      - path: Sheep
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
